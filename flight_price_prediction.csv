@@ -1,0 +1,1571 @@
+,AIRWAY,FLIGHTDEPARTS,FLIGHT_DEST_ARRIVES,FROMCITY,TOCITY,FLIGHTPRICE,DATE
+0,SpiceJet,21:10,23:25,Delhi,Mumbai,"5,955",27-Oct
+1,AirAsia,8:50,11:05,Delhi,Mumbai,"5,956",27-Oct
+2,GO FIRST,9:05,11:05,Delhi,Mumbai,"5,954",27-Oct
+3,GO FIRST,6:15,8:20,Delhi,Mumbai,"5,954",27-Oct
+4,GO FIRST,10:55,13:00,Delhi,Mumbai,"5,954",27-Oct
+5,GO FIRST,20:30,22:35,Delhi,Mumbai,"5,954",27-Oct
+6,GO FIRST,21:30,23:35,Delhi,Mumbai,"5,954",27-Oct
+7,GO FIRST,12:45,14:55,Delhi,Mumbai,"5,954",27-Oct
+8,Indigo,11:00,13:05,Delhi,Mumbai,"5,955",27-Oct
+9,Indigo,13:10,15:15,Delhi,Mumbai,"5,955",27-Oct
+10,Indigo,14:00,16:05,Delhi,Mumbai,"5,955",27-Oct
+11,Indigo,5:00,7:10,Delhi,Mumbai,"5,955",27-Oct
+12,Indigo,6:10,8:20,Delhi,Mumbai,"5,955",27-Oct
+13,GO FIRST,14:20,16:25,Delhi,Mumbai,"5,954",27-Oct
+14,GO FIRST,22:45,1:00,Delhi,Mumbai,"5,954",27-Oct
+15,Indigo,21:55,0:05,Delhi,Mumbai,"5,955",27-Oct
+16,Indigo,10:10,12:25,Delhi,Mumbai,"5,955",27-Oct
+17,Indigo,15:35,17:50,Delhi,Mumbai,"5,955",27-Oct
+18,Vistara,6:00,8:00,Delhi,Mumbai,"5,955",27-Oct
+19,Vistara,9:30,11:40,Delhi,Mumbai,"5,955",27-Oct
+20,Vistara,10:20,12:30,Delhi,Mumbai,"5,955",27-Oct
+21,Vistara,16:55,19:05,Delhi,Mumbai,"5,955",27-Oct
+22,Vistara,21:40,23:50,Delhi,Mumbai,"5,955",27-Oct
+23,Vistara,19:45,22:00,Delhi,Mumbai,"5,955",27-Oct
+24,SpiceJet,18:40,20:40,Delhi,Mumbai,"5,955",27-Oct
+25,SpiceJet,20:20,22:40,Delhi,Mumbai,"5,955",27-Oct
+26,GO FIRST,18:50,20:45,Delhi,Mumbai,"5,954",27-Oct
+27,Indigo,12:00,14:05,Delhi,Mumbai,"5,955",27-Oct
+28,Indigo,8:55,11:05,Delhi,Mumbai,"5,955",27-Oct
+29,SpiceJet,16:20,18:30,Delhi,Mumbai,"5,955",27-Oct
+30,Vistara,15:10,17:15,Delhi,Mumbai,"5,955",27-Oct
+31,Vistara,8:50,11:10,Delhi,Mumbai,"5,955",27-Oct
+32,Vistara,17:45,20:05,Delhi,Mumbai,"5,955",27-Oct
+33,AirAsia,8:00,14:35,Delhi,Mumbai,"5,953",27-Oct
+34,AirAsia,8:00,16:35,Delhi,Mumbai,"5,953",27-Oct
+35,GO FIRST,15:30,21:05,Delhi,Mumbai,"5,954",27-Oct
+36,GO FIRST,15:30,22:45,Delhi,Mumbai,"5,954",27-Oct
+37,GO FIRST,7:10,19:05,Delhi,Mumbai,"5,954",27-Oct
+38,GO FIRST,5:45,19:00,Delhi,Mumbai,"5,954",27-Oct
+39,GO FIRST,5:45,19:20,Delhi,Mumbai,"5,954",27-Oct
+40,GO FIRST,7:10,21:05,Delhi,Mumbai,"5,954",27-Oct
+41,GO FIRST,19:40,9:55,Delhi,Mumbai,"5,954",27-Oct
+42,Vistara,12:45,14:55,Delhi,Mumbai,"5,955",27-Oct
+43,Air India,7:00,9:05,Delhi,Mumbai,"5,955",27-Oct
+44,Air India,8:00,10:10,Delhi,Mumbai,"5,955",27-Oct
+45,Air India,10:40,12:50,Delhi,Mumbai,"5,955",27-Oct
+46,Air India,9:00,11:15,Delhi,Mumbai,"5,955",27-Oct
+47,AirAsia,5:20,11:20,Delhi,Mumbai,"5,953",27-Oct
+48,AirAsia,12:40,20:15,Delhi,Mumbai,"5,953",27-Oct
+49,AirAsia,11:55,20:15,Delhi,Mumbai,"5,953",27-Oct
+50,AirAsia,18:40,6:20,Delhi,Mumbai,"5,953",27-Oct
+51,AirAsia,5:20,20:15,Delhi,Mumbai,"5,953",27-Oct
+52,AirAsia,21:20,14:15,Delhi,Mumbai,"5,953",27-Oct
+53,GO FIRST,17:45,22:25,Delhi,Mumbai,"5,954",27-Oct
+54,GO FIRST,8:10,13:00,Delhi,Mumbai,"5,954",27-Oct
+55,GO FIRST,10:40,15:40,Delhi,Mumbai,"5,954",27-Oct
+56,GO FIRST,13:30,19:20,Delhi,Mumbai,"5,954",27-Oct
+57,GO FIRST,12:20,18:15,Delhi,Mumbai,"5,954",27-Oct
+58,GO FIRST,8:10,14:55,Delhi,Mumbai,"5,954",27-Oct
+59,GO FIRST,12:35,19:20,Delhi,Mumbai,"5,954",27-Oct
+60,GO FIRST,10:40,17:30,Delhi,Mumbai,"5,954",27-Oct
+61,GO FIRST,8:50,15:45,Delhi,Mumbai,"5,954",27-Oct
+62,GO FIRST,11:20,18:15,Delhi,Mumbai,"5,954",27-Oct
+63,GO FIRST,8:10,15:40,Delhi,Mumbai,"5,954",27-Oct
+64,GO FIRST,9:10,18:15,Delhi,Mumbai,"5,954",27-Oct
+65,GO FIRST,8:10,17:30,Delhi,Mumbai,"5,954",27-Oct
+66,GO FIRST,8:00,18:15,Delhi,Mumbai,"5,954",27-Oct
+67,GO FIRST,21:00,8:45,Delhi,Mumbai,"5,954",27-Oct
+68,GO FIRST,19:45,8:00,Delhi,Mumbai,"5,954",27-Oct
+69,GO FIRST,19:30,8:45,Delhi,Mumbai,"5,954",27-Oct
+70,GO FIRST,8:50,22:25,Delhi,Mumbai,"5,954",27-Oct
+71,GO FIRST,19:45,10:00,Delhi,Mumbai,"5,954",27-Oct
+72,GO FIRST,17:45,8:45,Delhi,Mumbai,"5,954",27-Oct
+73,Air India,15:05,18:15,Delhi,Mumbai,"5,955",27-Oct
+74,Air India,18:00,21:35,Delhi,Mumbai,"5,955",27-Oct
+75,Vistara,18:55,21:15,Delhi,Mumbai,"6,060",27-Oct
+76,Indigo,20:30,22:35,Delhi,Mumbai,"6,165",27-Oct
+77,Indigo,17:45,20:10,Delhi,Mumbai,"6,165",27-Oct
+78,Indigo,18:10,22:35,Delhi,Mumbai,"8,055",27-Oct
+79,Vistara,7:30,9:45,Delhi,Mumbai,"7,005",27-Oct
+80,Indigo,8:10,18:45,Delhi,Mumbai,"7,163",27-Oct
+81,Air India,19:00,21:15,Delhi,Mumbai,"7,215",27-Oct
+82,Indigo,12:30,22:35,Delhi,Mumbai,"8,265",27-Oct
+83,Indigo,8:55,16:40,Delhi,Mumbai,"8,895",27-Oct
+84,Indigo,7:20,16:40,Delhi,Mumbai,"8,895",27-Oct
+85,Air India,5:45,23:25,Delhi,Mumbai,"7,468",27-Oct
+86,Indigo,19:05,21:05,Delhi,Mumbai,"7,530",27-Oct
+87,Indigo,8:55,13:10,Delhi,Mumbai,"9,000",27-Oct
+88,Indigo,7:20,13:10,Delhi,Mumbai,"9,000",27-Oct
+89,Indigo,8:55,19:30,Delhi,Mumbai,"9,000",27-Oct
+90,Vistara,7:10,15:00,Delhi,Mumbai,"9,840",27-Oct
+91,Vistara,20:35,10:40,Delhi,Mumbai,"9,840",27-Oct
+92,Vistara,17:45,10:40,Delhi,Mumbai,"9,840",27-Oct
+93,Vistara,20:35,15:00,Delhi,Mumbai,"9,840",27-Oct
+94,Indigo,13:50,21:30,Delhi,Mumbai,"8,895",27-Oct
+95,Indigo,13:40,18:35,Delhi,Mumbai,"8,843",27-Oct
+96,Vistara,17:10,16:30,Delhi,Mumbai,"10,470",27-Oct
+97,Air India,5:20,9:20,Delhi,Mumbai,"9,000",27-Oct
+98,Vistara,17:10,21:35,Delhi,Mumbai,"9,000",27-Oct
+99,Indigo,13:50,19:30,Delhi,Mumbai,"9,000",27-Oct
+100,Air India,5:20,23:05,Delhi,Mumbai,"9,000",27-Oct
+101,Indigo,9:35,14:50,Delhi,Mumbai,"9,735",27-Oct
+102,Indigo,8:10,17:45,Delhi,Mumbai,"9,105",27-Oct
+103,Vistara,17:10,15:00,Delhi,Mumbai,"9,105",27-Oct
+104,Indigo,13:45,17:45,Delhi,Mumbai,"9,263",27-Oct
+105,Vistara,13:20,18:20,Delhi,Mumbai,"10,680",27-Oct
+106,Air India,5:45,16:25,Delhi,Mumbai,"9,590",27-Oct
+107,Indigo,13:10,18:35,Delhi,Mumbai,"9,735",27-Oct
+108,Indigo,9:35,18:35,Delhi,Mumbai,"9,735",27-Oct
+109,Indigo,7:40,16:50,Delhi,Mumbai,"9,735",27-Oct
+110,Air India,21:25,8:50,Delhi,Mumbai,"9,840",27-Oct
+111,Air India,9:45,23:30,Delhi,Mumbai,"9,840",27-Oct
+112,Air India,8:00,23:30,Delhi,Mumbai,"9,840",27-Oct
+113,Vistara,14:45,10:40,Delhi,Mumbai,"9,840",27-Oct
+114,Vistara,17:45,15:00,Delhi,Mumbai,"9,840",27-Oct
+115,Air India,9:45,8:50,Delhi,Mumbai,"9,840",27-Oct
+116,Vistara,14:45,15:00,Delhi,Mumbai,"9,840",27-Oct
+117,Air India,8:00,8:50,Delhi,Mumbai,"9,840",27-Oct
+118,Air India,21:25,23:30,Delhi,Mumbai,"9,840",27-Oct
+119,Vistara,7:10,10:40,Delhi,Mumbai,"9,840",27-Oct
+120,Vistara,13:20,12:40,Delhi,Mumbai,"9,893",27-Oct
+121,Vistara,13:20,16:00,Delhi,Mumbai,"9,893",27-Oct
+122,Air India,12:50,19:25,Delhi,Mumbai,"9,988",27-Oct
+123,Air India,13:00,13:35,Delhi,Mumbai,"9,988",27-Oct
+124,Air India,13:20,17:50,Delhi,Mumbai,"10,050",27-Oct
+125,Indigo,11:30,18:45,Delhi,Mumbai,"10,050",27-Oct
+126,Air India,20:00,22:10,Delhi,Mumbai,"10,260",27-Oct
+127,Indigo,8:10,13:10,Delhi,Mumbai,"10,418",27-Oct
+128,Air India,20:10,20:00,Delhi,Mumbai,"10,365",27-Oct
+129,Vistara,8:15,13:35,Delhi,Mumbai,"10,470",27-Oct
+130,Vistara,13:40,21:35,Delhi,Mumbai,"10,418",27-Oct
+131,Vistara,8:15,14:45,Delhi,Mumbai,"10,470",27-Oct
+132,Vistara,17:10,14:45,Delhi,Mumbai,"10,470",27-Oct
+133,Vistara,11:10,14:45,Delhi,Mumbai,"10,470",27-Oct
+134,Vistara,13:40,15:00,Delhi,Mumbai,"10,523",27-Oct
+135,Vistara,17:45,23:00,Delhi,Mumbai,"10,575",27-Oct
+136,Vistara,14:45,23:00,Delhi,Mumbai,"10,575",27-Oct
+137,Air India,12:10,17:10,Delhi,Mumbai,"10,680",27-Oct
+138,Air India,18:40,17:10,Delhi,Mumbai,"10,680",27-Oct
+139,Air India,16:45,16:45,Delhi,Mumbai,"10,921",27-Oct
+140,GO FIRST,8:40,18:15,Delhi,Mumbai,"11,264",27-Oct
+141,Vistara,16:05,23:25,Delhi,Mumbai,"12,150",27-Oct
+142,Vistara,14:10,23:25,Delhi,Mumbai,"12,150",27-Oct
+143,Air India,7:20,15:50,Delhi,Mumbai,"11,678",27-Oct
+144,Air India,10:15,15:40,Delhi,Mumbai,"12,045",27-Oct
+145,Vistara,17:35,23:25,Delhi,Mumbai,"12,150",27-Oct
+146,Air India,13:30,21:05,Delhi,Mumbai,"12,150",27-Oct
+147,Air India,9:45,21:05,Delhi,Mumbai,"12,150",27-Oct
+148,Air India,21:15,8:35,Delhi,Mumbai,"12,150",27-Oct
+149,Air India,21:15,10:35,Delhi,Mumbai,"12,150",27-Oct
+150,Air India,6:10,21:05,Delhi,Mumbai,"12,150",27-Oct
+151,Air India,13:30,8:35,Delhi,Mumbai,"12,150",27-Oct
+152,Air India,9:45,8:35,Delhi,Mumbai,"12,150",27-Oct
+153,Air India,9:45,12:15,Delhi,Mumbai,"12,298",27-Oct
+154,Air India,5:25,16:25,Delhi,Mumbai,"12,780",27-Oct
+155,Air India,9:45,17:05,Delhi,Mumbai,"12,990",27-Oct
+156,Air India,6:05,17:05,Delhi,Mumbai,"12,990",27-Oct
+157,Air India,20:40,8:05,Delhi,Mumbai,"12,990",27-Oct
+158,Vistara,20:30,13:00,Delhi,Mumbai,"12,990",27-Oct
+159,Air India,16:55,12:25,Delhi,Mumbai,"12,990",27-Oct
+160,Vistara,17:30,13:00,Delhi,Mumbai,"12,990",27-Oct
+161,Air India,20:40,17:05,Delhi,Mumbai,"12,990",27-Oct
+162,Vistara,14:50,13:00,Delhi,Mumbai,"12,990",27-Oct
+163,Air India,16:55,16:45,Delhi,Mumbai,"12,990",27-Oct
+164,Vistara,20:30,23:15,Delhi,Mumbai,"12,990",27-Oct
+165,Vistara,16:05,21:50,Delhi,Mumbai,"13,043",27-Oct
+166,Vistara,14:10,20:15,Delhi,Mumbai,"13,043",27-Oct
+167,Vistara,14:10,21:50,Delhi,Mumbai,"13,043",27-Oct
+168,Vistara,19:55,11:50,Delhi,Mumbai,"13,410",27-Oct
+169,Air India,6:20,20:00,Delhi,Mumbai,"13,778",27-Oct
+170,Vistara,14:50,20:20,Delhi,Mumbai,"13,830",27-Oct
+171,Vistara,6:20,20:20,Delhi,Mumbai,"13,830",27-Oct
+172,Air India,16:55,20:15,Delhi,Mumbai,"13,830",27-Oct
+173,Vistara,7:30,20:20,Delhi,Mumbai,"13,935",27-Oct
+174,Vistara,8:10,20:15,Delhi,Mumbai,"14,408",27-Oct
+175,Vistara,8:10,21:50,Delhi,Mumbai,"14,408",27-Oct
+176,Vistara,17:35,23:05,Delhi,Mumbai,"14,565",27-Oct
+177,Vistara,13:30,23:05,Delhi,Mumbai,"14,565",27-Oct
+178,Vistara,7:20,23:05,Delhi,Mumbai,"14,565",27-Oct
+179,Air India,14:10,22:20,Delhi,Mumbai,"14,670",27-Oct
+180,Vistara,20:30,20:20,Delhi,Mumbai,"14,880",27-Oct
+181,Vistara,17:30,20:20,Delhi,Mumbai,"14,880",27-Oct
+182,SpiceJet,10:00,13:50,Delhi,Mumbai,"15,720",27-Oct
+183,Vistara,20:40,8:25,Delhi,Mumbai,"16,298",27-Oct
+184,Vistara,19:50,8:25,Delhi,Mumbai,"16,298",27-Oct
+185,Air India,20:15,12:25,Delhi,Mumbai,"16,560",27-Oct
+186,Vistara,6:20,12:30,Delhi,Mumbai,"20,445",27-Oct
+187,SpiceJet,16:20,18:30,Delhi,Mumbai,"5,955",28-Oct
+188,SpiceJet,21:10,23:25,Delhi,Mumbai,"5,955",28-Oct
+189,AirAsia,8:50,11:05,Delhi,Mumbai,"5,956",28-Oct
+190,GO FIRST,6:15,8:20,Delhi,Mumbai,"5,954",28-Oct
+191,GO FIRST,10:55,13:00,Delhi,Mumbai,"5,954",28-Oct
+192,GO FIRST,21:30,23:35,Delhi,Mumbai,"5,954",28-Oct
+193,GO FIRST,12:45,14:55,Delhi,Mumbai,"5,954",28-Oct
+194,GO FIRST,22:45,1:00,Delhi,Mumbai,"5,954",28-Oct
+195,Indigo,11:00,13:05,Delhi,Mumbai,"5,955",28-Oct
+196,Indigo,13:10,15:15,Delhi,Mumbai,"5,955",28-Oct
+197,Indigo,14:00,16:05,Delhi,Mumbai,"5,955",28-Oct
+198,Indigo,5:00,7:10,Delhi,Mumbai,"5,955",28-Oct
+199,Indigo,6:10,8:20,Delhi,Mumbai,"5,955",28-Oct
+200,GO FIRST,9:05,11:05,Delhi,Mumbai,"5,954",28-Oct
+201,GO FIRST,14:20,16:25,Delhi,Mumbai,"5,954",28-Oct
+202,GO FIRST,20:30,22:35,Delhi,Mumbai,"5,954",28-Oct
+203,Indigo,21:55,0:05,Delhi,Mumbai,"5,955",28-Oct
+204,Indigo,10:10,12:25,Delhi,Mumbai,"5,955",28-Oct
+205,Indigo,15:35,17:50,Delhi,Mumbai,"5,955",28-Oct
+206,Indigo,17:45,20:10,Delhi,Mumbai,"5,955",28-Oct
+207,Vistara,6:00,8:00,Delhi,Mumbai,"5,955",28-Oct
+208,Vistara,9:30,11:40,Delhi,Mumbai,"5,955",28-Oct
+209,Vistara,10:20,12:30,Delhi,Mumbai,"5,955",28-Oct
+210,Vistara,16:55,19:05,Delhi,Mumbai,"5,955",28-Oct
+211,Vistara,21:40,23:50,Delhi,Mumbai,"5,955",28-Oct
+212,Vistara,19:45,22:00,Delhi,Mumbai,"5,955",28-Oct
+213,SpiceJet,18:40,20:40,Delhi,Mumbai,"5,955",28-Oct
+214,SpiceJet,20:20,22:40,Delhi,Mumbai,"5,955",28-Oct
+215,GO FIRST,18:50,20:45,Delhi,Mumbai,"5,954",28-Oct
+216,Indigo,12:00,14:05,Delhi,Mumbai,"5,955",28-Oct
+217,Indigo,8:55,11:05,Delhi,Mumbai,"5,955",28-Oct
+218,Vistara,15:10,17:15,Delhi,Mumbai,"5,955",28-Oct
+219,Vistara,8:50,11:10,Delhi,Mumbai,"5,955",28-Oct
+220,Vistara,17:45,20:05,Delhi,Mumbai,"5,955",28-Oct
+221,AirAsia,8:00,14:35,Delhi,Mumbai,"5,953",28-Oct
+222,AirAsia,8:00,16:35,Delhi,Mumbai,"5,953",28-Oct
+223,GO FIRST,15:30,21:05,Delhi,Mumbai,"5,954",28-Oct
+224,GO FIRST,15:30,22:45,Delhi,Mumbai,"5,954",28-Oct
+225,GO FIRST,7:10,19:05,Delhi,Mumbai,"5,954",28-Oct
+226,GO FIRST,5:45,19:25,Delhi,Mumbai,"5,954",28-Oct
+227,GO FIRST,7:10,21:05,Delhi,Mumbai,"5,954",28-Oct
+228,GO FIRST,19:40,9:55,Delhi,Mumbai,"5,954",28-Oct
+229,Vistara,12:45,14:55,Delhi,Mumbai,"5,955",28-Oct
+230,Air India,7:00,9:05,Delhi,Mumbai,"5,955",28-Oct
+231,Air India,8:00,10:10,Delhi,Mumbai,"5,955",28-Oct
+232,Air India,10:40,12:50,Delhi,Mumbai,"5,955",28-Oct
+233,Air India,9:00,11:15,Delhi,Mumbai,"5,955",28-Oct
+234,AirAsia,5:20,11:20,Delhi,Mumbai,"5,953",28-Oct
+235,AirAsia,12:40,20:15,Delhi,Mumbai,"5,953",28-Oct
+236,AirAsia,11:55,20:15,Delhi,Mumbai,"5,953",28-Oct
+237,AirAsia,18:40,6:20,Delhi,Mumbai,"5,953",28-Oct
+238,AirAsia,5:20,20:15,Delhi,Mumbai,"5,953",28-Oct
+239,AirAsia,21:20,14:15,Delhi,Mumbai,"5,953",28-Oct
+240,GO FIRST,17:45,22:25,Delhi,Mumbai,"5,954",28-Oct
+241,GO FIRST,8:10,13:00,Delhi,Mumbai,"5,954",28-Oct
+242,GO FIRST,10:40,15:40,Delhi,Mumbai,"5,954",28-Oct
+243,GO FIRST,13:30,19:20,Delhi,Mumbai,"5,954",28-Oct
+244,GO FIRST,12:20,18:15,Delhi,Mumbai,"5,954",28-Oct
+245,GO FIRST,8:10,14:55,Delhi,Mumbai,"5,954",28-Oct
+246,GO FIRST,12:35,19:20,Delhi,Mumbai,"5,954",28-Oct
+247,GO FIRST,10:40,17:30,Delhi,Mumbai,"5,954",28-Oct
+248,GO FIRST,8:50,15:45,Delhi,Mumbai,"5,954",28-Oct
+249,GO FIRST,11:20,18:15,Delhi,Mumbai,"5,954",28-Oct
+250,GO FIRST,8:10,15:40,Delhi,Mumbai,"5,954",28-Oct
+251,GO FIRST,9:10,18:15,Delhi,Mumbai,"5,954",28-Oct
+252,GO FIRST,8:10,17:30,Delhi,Mumbai,"5,954",28-Oct
+253,GO FIRST,8:00,18:15,Delhi,Mumbai,"5,954",28-Oct
+254,GO FIRST,21:00,8:45,Delhi,Mumbai,"5,954",28-Oct
+255,GO FIRST,19:45,8:00,Delhi,Mumbai,"5,954",28-Oct
+256,GO FIRST,19:30,8:45,Delhi,Mumbai,"5,954",28-Oct
+257,GO FIRST,5:45,19:20,Delhi,Mumbai,"5,954",28-Oct
+258,GO FIRST,8:50,22:25,Delhi,Mumbai,"5,954",28-Oct
+259,GO FIRST,19:45,10:00,Delhi,Mumbai,"5,954",28-Oct
+260,GO FIRST,17:45,8:45,Delhi,Mumbai,"5,954",28-Oct
+261,Air India,15:05,18:15,Delhi,Mumbai,"5,955",28-Oct
+262,Air India,18:00,21:35,Delhi,Mumbai,"5,955",28-Oct
+263,Vistara,18:55,21:15,Delhi,Mumbai,"6,060",28-Oct
+264,Indigo,18:10,22:35,Delhi,Mumbai,"8,055",28-Oct
+265,SpiceJet,5:55,11:30,Delhi,Mumbai,"6,901",28-Oct
+266,Indigo,8:10,18:45,Delhi,Mumbai,"7,163",28-Oct
+267,Indigo,20:30,22:35,Delhi,Mumbai,"7,110",28-Oct
+268,Air India,19:00,21:15,Delhi,Mumbai,"7,215",28-Oct
+269,Indigo,8:55,16:40,Delhi,Mumbai,"8,895",28-Oct
+270,Indigo,7:20,16:40,Delhi,Mumbai,"8,895",28-Oct
+271,Air India,5:45,23:25,Delhi,Mumbai,"7,468",28-Oct
+272,Indigo,12:30,22:35,Delhi,Mumbai,"8,475",28-Oct
+273,Vistara,7:30,9:45,Delhi,Mumbai,"7,530",28-Oct
+274,Indigo,8:55,13:10,Delhi,Mumbai,"9,000",28-Oct
+275,Indigo,7:20,13:10,Delhi,Mumbai,"9,000",28-Oct
+276,Indigo,8:55,19:30,Delhi,Mumbai,"9,000",28-Oct
+277,Vistara,7:10,15:00,Delhi,Mumbai,"9,840",28-Oct
+278,Vistara,20:35,10:40,Delhi,Mumbai,"9,840",28-Oct
+279,Vistara,20:35,15:00,Delhi,Mumbai,"9,840",28-Oct
+280,Indigo,13:50,21:30,Delhi,Mumbai,"8,895",28-Oct
+281,Indigo,13:40,18:35,Delhi,Mumbai,"8,843",28-Oct
+282,Indigo,19:05,21:05,Delhi,Mumbai,"8,895",28-Oct
+283,Vistara,17:10,16:30,Delhi,Mumbai,"10,470",28-Oct
+284,Air India,5:20,9:20,Delhi,Mumbai,"9,000",28-Oct
+285,Vistara,17:10,21:35,Delhi,Mumbai,"9,000",28-Oct
+286,Indigo,13:50,19:30,Delhi,Mumbai,"9,000",28-Oct
+287,Air India,5:20,23:05,Delhi,Mumbai,"9,000",28-Oct
+288,Indigo,9:35,14:50,Delhi,Mumbai,"9,735",28-Oct
+289,Vistara,17:10,15:00,Delhi,Mumbai,"9,105",28-Oct
+290,Vistara,13:20,18:20,Delhi,Mumbai,"10,680",28-Oct
+291,Indigo,13:45,17:45,Delhi,Mumbai,"9,420",28-Oct
+292,Air India,13:20,17:50,Delhi,Mumbai,"9,420",28-Oct
+293,Indigo,13:10,18:35,Delhi,Mumbai,"9,735",28-Oct
+294,Indigo,9:35,18:35,Delhi,Mumbai,"9,735",28-Oct
+295,Air India,21:25,8:50,Delhi,Mumbai,"9,840",28-Oct
+296,Air India,8:00,23:30,Delhi,Mumbai,"9,840",28-Oct
+297,Vistara,14:45,10:40,Delhi,Mumbai,"9,840",28-Oct
+298,Vistara,14:45,15:00,Delhi,Mumbai,"9,840",28-Oct
+299,Air India,8:00,8:50,Delhi,Mumbai,"9,840",28-Oct
+300,Air India,21:25,23:30,Delhi,Mumbai,"9,840",28-Oct
+301,Vistara,7:10,10:40,Delhi,Mumbai,"9,840",28-Oct
+302,Vistara,13:20,12:40,Delhi,Mumbai,"9,893",28-Oct
+303,Vistara,13:20,16:00,Delhi,Mumbai,"9,893",28-Oct
+304,Vistara,17:45,10:40,Delhi,Mumbai,"9,945",28-Oct
+305,Vistara,17:45,15:00,Delhi,Mumbai,"9,945",28-Oct
+306,Air India,12:50,19:25,Delhi,Mumbai,"9,988",28-Oct
+307,Air India,13:00,13:35,Delhi,Mumbai,"9,988",28-Oct
+308,Indigo,7:40,16:50,Delhi,Mumbai,"9,998",28-Oct
+309,Air India,20:00,22:10,Delhi,Mumbai,"10,260",28-Oct
+310,Indigo,8:10,17:45,Delhi,Mumbai,"10,313",28-Oct
+311,Air India,20:10,20:00,Delhi,Mumbai,"10,365",28-Oct
+312,Vistara,8:15,13:35,Delhi,Mumbai,"10,470",28-Oct
+313,Vistara,8:15,14:45,Delhi,Mumbai,"10,470",28-Oct
+314,Vistara,17:10,14:45,Delhi,Mumbai,"10,470",28-Oct
+315,Vistara,11:10,14:45,Delhi,Mumbai,"10,470",28-Oct
+316,Vistara,14:45,23:00,Delhi,Mumbai,"10,575",28-Oct
+317,Vistara,7:10,23:00,Delhi,Mumbai,"10,575",28-Oct
+318,Air India,12:10,17:10,Delhi,Mumbai,"10,680",28-Oct
+319,Air India,12:10,15:40,Delhi,Mumbai,"10,680",28-Oct
+320,SpiceJet,10:00,13:50,Delhi,Mumbai,"10,890",28-Oct
+321,Indigo,11:30,18:45,Delhi,Mumbai,"10,890",28-Oct
+322,Vistara,13:40,21:35,Delhi,Mumbai,"10,943",28-Oct
+323,Vistara,13:40,15:00,Delhi,Mumbai,"11,048",28-Oct
+324,Air India,21:25,9:40,Delhi,Mumbai,"11,100",28-Oct
+325,GO FIRST,8:40,18:15,Delhi,Mumbai,"11,264",28-Oct
+326,Air India,10:15,15:40,Delhi,Mumbai,"11,310",28-Oct
+327,Vistara,19:55,11:50,Delhi,Mumbai,"12,990",28-Oct
+328,Air India,6:20,20:00,Delhi,Mumbai,"11,468",28-Oct
+329,Vistara,16:05,23:25,Delhi,Mumbai,"12,150",28-Oct
+330,Vistara,14:10,23:25,Delhi,Mumbai,"12,150",28-Oct
+331,Indigo,8:10,13:10,Delhi,Mumbai,"11,625",28-Oct
+332,Air India,18:40,17:10,Delhi,Mumbai,"12,045",28-Oct
+333,Vistara,17:35,23:25,Delhi,Mumbai,"12,150",28-Oct
+334,Air India,13:30,21:05,Delhi,Mumbai,"12,150",28-Oct
+335,Air India,9:45,21:05,Delhi,Mumbai,"12,150",28-Oct
+336,Air India,21:15,8:35,Delhi,Mumbai,"12,150",28-Oct
+337,Air India,21:15,10:35,Delhi,Mumbai,"12,150",28-Oct
+338,Air India,6:10,21:05,Delhi,Mumbai,"12,150",28-Oct
+339,Air India,13:30,8:35,Delhi,Mumbai,"12,150",28-Oct
+340,Air India,9:45,8:35,Delhi,Mumbai,"12,150",28-Oct
+341,Air India,9:45,17:05,Delhi,Mumbai,"12,990",28-Oct
+342,Air India,6:05,17:05,Delhi,Mumbai,"12,990",28-Oct
+343,Air India,20:40,8:05,Delhi,Mumbai,"12,990",28-Oct
+344,Vistara,20:30,13:00,Delhi,Mumbai,"12,990",28-Oct
+345,Air India,16:55,12:25,Delhi,Mumbai,"12,990",28-Oct
+346,Vistara,17:30,13:00,Delhi,Mumbai,"12,990",28-Oct
+347,Air India,20:40,17:05,Delhi,Mumbai,"12,990",28-Oct
+348,Vistara,14:50,13:00,Delhi,Mumbai,"12,990",28-Oct
+349,Air India,16:55,16:45,Delhi,Mumbai,"12,990",28-Oct
+350,Vistara,20:30,23:15,Delhi,Mumbai,"12,990",28-Oct
+351,Vistara,16:05,21:50,Delhi,Mumbai,"13,043",28-Oct
+352,Vistara,14:10,21:50,Delhi,Mumbai,"13,043",28-Oct
+353,Air India,7:20,15:50,Delhi,Mumbai,"13,253",28-Oct
+354,Vistara,14:10,20:15,Delhi,Mumbai,"13,568",28-Oct
+355,Air India,7:00,16:45,Delhi,Mumbai,"13,830",28-Oct
+356,Air India,16:55,20:15,Delhi,Mumbai,"13,830",28-Oct
+357,Air India,14:10,22:20,Delhi,Mumbai,"14,670",28-Oct
+358,Vistara,14:50,20:20,Delhi,Mumbai,"14,880",28-Oct
+359,Vistara,6:20,20:20,Delhi,Mumbai,"14,880",28-Oct
+360,Vistara,20:30,20:20,Delhi,Mumbai,"14,880",28-Oct
+361,Vistara,17:30,20:20,Delhi,Mumbai,"14,880",28-Oct
+362,Vistara,17:35,23:05,Delhi,Mumbai,"15,090",28-Oct
+363,Vistara,13:30,23:05,Delhi,Mumbai,"15,090",28-Oct
+364,Vistara,7:20,23:05,Delhi,Mumbai,"15,090",28-Oct
+365,Vistara,7:15,20:20,Delhi,Mumbai,"15,615",28-Oct
+366,Air India,20:15,12:25,Delhi,Mumbai,"15,825",28-Oct
+367,Vistara,20:40,8:25,Delhi,Mumbai,"16,298",28-Oct
+368,Vistara,19:50,8:25,Delhi,Mumbai,"16,298",28-Oct
+369,Vistara,8:10,21:50,Delhi,Mumbai,"18,923",28-Oct
+370,Vistara,8:10,20:15,Delhi,Mumbai,"19,448",28-Oct
+371,Vistara,6:20,12:30,Delhi,Mumbai,"20,445",28-Oct
+372,GO FIRST,5:45,8:20,Delhi,Bangalore,"7,424",28-Oct
+373,Indigo,22:20,1:05,Delhi,Bangalore,"7,425",28-Oct
+374,Indigo,17:20,20:10,Delhi,Bangalore,"7,425",28-Oct
+375,Indigo,6:05,9:15,Delhi,Bangalore,"7,425",28-Oct
+376,AirAsia,8:00,10:50,Delhi,Bangalore,"7,426",28-Oct
+377,AirAsia,18:40,21:30,Delhi,Bangalore,"7,426",28-Oct
+378,SpiceJet,21:50,0:35,Delhi,Bangalore,"7,425",28-Oct
+379,SpiceJet,22:40,1:25,Delhi,Bangalore,"7,425",28-Oct
+380,SpiceJet,20:05,23:10,Delhi,Bangalore,"7,425",28-Oct
+381,GO FIRST,19:45,22:20,Delhi,Bangalore,"7,424",28-Oct
+382,AirAsia,8:50,14:00,Delhi,Bangalore,"7,423",28-Oct
+383,AirAsia,8:50,22:00,Delhi,Bangalore,"7,423",28-Oct
+384,AirAsia,8:50,22:25,Delhi,Bangalore,"7,423",28-Oct
+385,GO FIRST,12:45,19:45,Delhi,Bangalore,"7,424",28-Oct
+386,GO FIRST,10:55,19:45,Delhi,Bangalore,"7,424",28-Oct
+387,GO FIRST,22:45,7:45,Delhi,Bangalore,"7,424",28-Oct
+388,GO FIRST,12:45,22:55,Delhi,Bangalore,"7,424",28-Oct
+389,GO FIRST,21:30,7:45,Delhi,Bangalore,"7,424",28-Oct
+390,GO FIRST,12:45,0:05,Delhi,Bangalore,"7,424",28-Oct
+391,GO FIRST,10:55,22:55,Delhi,Bangalore,"7,424",28-Oct
+392,GO FIRST,10:55,0:05,Delhi,Bangalore,"7,424",28-Oct
+393,GO FIRST,6:15,19:45,Delhi,Bangalore,"7,424",28-Oct
+394,GO FIRST,14:20,19:45,Delhi,Bangalore,"7,424",28-Oct
+395,GO FIRST,14:20,22:55,Delhi,Bangalore,"7,424",28-Oct
+396,GO FIRST,14:20,0:05,Delhi,Bangalore,"7,424",28-Oct
+397,GO FIRST,9:05,19:45,Delhi,Bangalore,"7,424",28-Oct
+398,GO FIRST,20:30,7:45,Delhi,Bangalore,"7,424",28-Oct
+399,GO FIRST,9:05,22:55,Delhi,Bangalore,"7,424",28-Oct
+400,GO FIRST,9:05,0:05,Delhi,Bangalore,"7,424",28-Oct
+401,Indigo,11:35,16:25,Delhi,Bangalore,"7,425",28-Oct
+402,Indigo,11:35,17:40,Delhi,Bangalore,"7,425",28-Oct
+403,Indigo,9:45,16:25,Delhi,Bangalore,"7,425",28-Oct
+404,Indigo,7:10,14:15,Delhi,Bangalore,"7,425",28-Oct
+405,Indigo,9:45,17:40,Delhi,Bangalore,"7,425",28-Oct
+406,Indigo,7:10,16:25,Delhi,Bangalore,"7,425",28-Oct
+407,Indigo,22:00,8:15,Delhi,Bangalore,"7,425",28-Oct
+408,Indigo,7:10,17:40,Delhi,Bangalore,"7,425",28-Oct
+409,GO FIRST,5:45,17:05,Delhi,Bangalore,"7,424",28-Oct
+410,GO FIRST,19:30,10:30,Delhi,Bangalore,"7,424",28-Oct
+411,Vistara,20:40,23:20,Delhi,Bangalore,"7,425",28-Oct
+412,Vistara,14:10,16:55,Delhi,Bangalore,"7,425",28-Oct
+413,Vistara,16:05,18:50,Delhi,Bangalore,"7,425",28-Oct
+414,Vistara,19:50,22:40,Delhi,Bangalore,"7,425",28-Oct
+415,GO FIRST,18:50,0:05,Delhi,Bangalore,"7,424",28-Oct
+416,GO FIRST,15:30,22:15,Delhi,Bangalore,"7,424",28-Oct
+417,GO FIRST,18:50,7:45,Delhi,Bangalore,"7,424",28-Oct
+418,GO FIRST,7:10,22:15,Delhi,Bangalore,"7,424",28-Oct
+419,SpiceJet,6:50,14:55,Delhi,Bangalore,"7,425",28-Oct
+420,Indigo,11:05,13:45,Delhi,Bangalore,"7,425",28-Oct
+421,Indigo,15:05,17:50,Delhi,Bangalore,"7,425",28-Oct
+422,Indigo,13:10,16:00,Delhi,Bangalore,"7,425",28-Oct
+423,Indigo,16:25,19:15,Delhi,Bangalore,"7,425",28-Oct
+424,Indigo,20:15,23:05,Delhi,Bangalore,"7,425",28-Oct
+425,Indigo,18:45,21:40,Delhi,Bangalore,"7,425",28-Oct
+426,Vistara,17:35,20:25,Delhi,Bangalore,"7,425",28-Oct
+427,Air India,21:15,23:55,Delhi,Bangalore,"7,425",28-Oct
+428,Air India,6:10,8:55,Delhi,Bangalore,"7,425",28-Oct
+429,Air India,9:45,12:30,Delhi,Bangalore,"7,425",28-Oct
+430,Air India,13:30,16:15,Delhi,Bangalore,"7,425",28-Oct
+431,AirAsia,15:40,20:35,Delhi,Bangalore,"7,423",28-Oct
+432,AirAsia,12:40,18:20,Delhi,Bangalore,"7,423",28-Oct
+433,AirAsia,11:55,18:20,Delhi,Bangalore,"7,423",28-Oct
+434,AirAsia,7:10,13:55,Delhi,Bangalore,"7,423",28-Oct
+435,AirAsia,10:05,18:20,Delhi,Bangalore,"7,423",28-Oct
+436,AirAsia,16:05,1:00,Delhi,Bangalore,"7,423",28-Oct
+437,AirAsia,12:35,0:45,Delhi,Bangalore,"7,423",28-Oct
+438,AirAsia,5:20,18:20,Delhi,Bangalore,"7,423",28-Oct
+439,AirAsia,21:20,11:30,Delhi,Bangalore,"7,423",28-Oct
+440,AirAsia,19:25,11:30,Delhi,Bangalore,"7,423",28-Oct
+441,AirAsia,7:10,23:50,Delhi,Bangalore,"7,423",28-Oct
+442,AirAsia,7:10,0:45,Delhi,Bangalore,"7,423",28-Oct
+443,GO FIRST,8:10,13:25,Delhi,Bangalore,"7,424",28-Oct
+444,GO FIRST,5:45,15:20,Delhi,Bangalore,"7,424",28-Oct
+445,GO FIRST,8:45,20:50,Delhi,Bangalore,"7,424",28-Oct
+446,GO FIRST,19:40,11:10,Delhi,Bangalore,"7,424",28-Oct
+447,Indigo,19:15,0:05,Delhi,Bangalore,"7,425",28-Oct
+448,SpiceJet,12:00,16:55,Delhi,Bangalore,"7,425",28-Oct
+449,Indigo,13:35,19:50,Delhi,Bangalore,"7,425",28-Oct
+450,Indigo,7:40,14:05,Delhi,Bangalore,"7,425",28-Oct
+451,Indigo,17:15,0:05,Delhi,Bangalore,"7,425",28-Oct
+452,Indigo,13:35,21:10,Delhi,Bangalore,"7,425",28-Oct
+453,Indigo,14:20,22:10,Delhi,Bangalore,"7,425",28-Oct
+454,Indigo,12:30,20:40,Delhi,Bangalore,"7,425",28-Oct
+455,Indigo,11:35,19:50,Delhi,Bangalore,"7,425",28-Oct
+456,Indigo,22:00,6:50,Delhi,Bangalore,"7,425",28-Oct
+457,Indigo,11:35,21:10,Delhi,Bangalore,"7,425",28-Oct
+458,Indigo,9:45,19:50,Delhi,Bangalore,"7,425",28-Oct
+459,Indigo,13:35,0:05,Delhi,Bangalore,"7,425",28-Oct
+460,Indigo,9:45,21:10,Delhi,Bangalore,"7,425",28-Oct
+461,Indigo,19:15,6:50,Delhi,Bangalore,"7,425",28-Oct
+462,Indigo,22:00,9:35,Delhi,Bangalore,"7,425",28-Oct
+463,Vistara,17:10,16:00,Delhi,Bangalore,"7,600",28-Oct
+464,SpiceJet,8:20,16:55,Delhi,Bangalore,"7,741",28-Oct
+465,AirAsia,12:35,23:50,Delhi,Bangalore,"7,741",28-Oct
+466,Indigo,11:30,20:55,Delhi,Bangalore,"8,071",28-Oct
+467,Vistara,20:35,8:50,Delhi,Bangalore,"9,840",28-Oct
+468,Vistara,14:45,8:50,Delhi,Bangalore,"9,840",28-Oct
+469,SpiceJet,16:40,14:55,Delhi,Bangalore,"8,371",28-Oct
+470,Indigo,8:10,17:15,Delhi,Bangalore,"8,717",28-Oct
+471,Vistara,16:55,22:50,Delhi,Bangalore,"10,680",28-Oct
+472,Vistara,10:20,20:55,Delhi,Bangalore,"10,680",28-Oct
+473,Vistara,9:30,20:55,Delhi,Bangalore,"10,680",28-Oct
+474,Vistara,10:20,22:50,Delhi,Bangalore,"10,680",28-Oct
+475,Vistara,9:30,22:50,Delhi,Bangalore,"10,680",28-Oct
+476,Vistara,6:00,20:55,Delhi,Bangalore,"10,680",28-Oct
+477,Vistara,17:45,22:50,Delhi,Bangalore,"10,680",28-Oct
+478,Vistara,15:10,20:55,Delhi,Bangalore,"10,680",28-Oct
+479,Vistara,15:10,22:50,Delhi,Bangalore,"10,680",28-Oct
+480,Vistara,8:50,20:55,Delhi,Bangalore,"10,680",28-Oct
+481,Vistara,8:50,22:50,Delhi,Bangalore,"10,680",28-Oct
+482,Air India,21:25,11:20,Delhi,Bangalore,"9,840",28-Oct
+483,Air India,8:00,22:20,Delhi,Bangalore,"9,840",28-Oct
+484,Vistara,7:10,8:50,Delhi,Bangalore,"9,840",28-Oct
+485,Vistara,17:45,8:50,Delhi,Bangalore,"9,945",28-Oct
+486,Vistara,8:15,16:00,Delhi,Bangalore,"11,310",28-Oct
+487,Air India,6:05,14:25,Delhi,Bangalore,"10,470",28-Oct
+488,Air India,20:40,11:20,Delhi,Bangalore,"10,470",28-Oct
+489,Air India,9:45,11:20,Delhi,Bangalore,"10,470",28-Oct
+490,Air India,6:05,11:20,Delhi,Bangalore,"10,470",28-Oct
+491,Air India,21:25,22:20,Delhi,Bangalore,"10,628",28-Oct
+492,Air India,10:40,18:30,Delhi,Bangalore,"10,680",28-Oct
+493,Vistara,12:45,20:55,Delhi,Bangalore,"10,680",28-Oct
+494,Air India,9:00,18:30,Delhi,Bangalore,"10,680",28-Oct
+495,Vistara,12:45,22:50,Delhi,Bangalore,"10,680",28-Oct
+496,Air India,8:00,18:30,Delhi,Bangalore,"10,680",28-Oct
+497,Air India,7:00,18:30,Delhi,Bangalore,"10,680",28-Oct
+498,Air India,18:00,7:55,Delhi,Bangalore,"10,680",28-Oct
+499,Air India,15:05,7:55,Delhi,Bangalore,"10,680",28-Oct
+500,Air India,18:00,11:10,Delhi,Bangalore,"10,680",28-Oct
+501,Air India,15:05,11:10,Delhi,Bangalore,"10,680",28-Oct
+502,Vistara,12:45,17:45,Delhi,Bangalore,"10,785",28-Oct
+503,Vistara,10:20,17:45,Delhi,Bangalore,"10,785",28-Oct
+504,Vistara,9:30,17:45,Delhi,Bangalore,"10,785",28-Oct
+505,Vistara,8:50,17:45,Delhi,Bangalore,"10,785",28-Oct
+506,Vistara,21:40,8:50,Delhi,Bangalore,"10,785",28-Oct
+507,Vistara,6:00,17:45,Delhi,Bangalore,"10,785",28-Oct
+508,Vistara,19:45,8:50,Delhi,Bangalore,"10,785",28-Oct
+509,Vistara,21:40,10:45,Delhi,Bangalore,"10,785",28-Oct
+510,Vistara,19:45,10:45,Delhi,Bangalore,"10,785",28-Oct
+511,Vistara,17:45,8:50,Delhi,Bangalore,"10,785",28-Oct
+512,Vistara,16:55,8:50,Delhi,Bangalore,"10,785",28-Oct
+513,Vistara,17:45,10:45,Delhi,Bangalore,"10,785",28-Oct
+514,Vistara,18:10,13:00,Delhi,Bangalore,"12,391",28-Oct
+515,Vistara,18:55,8:50,Delhi,Bangalore,"10,890",28-Oct
+516,Vistara,18:55,10:45,Delhi,Bangalore,"10,890",28-Oct
+517,Vistara,11:10,16:00,Delhi,Bangalore,"11,310",28-Oct
+518,Air India,19:00,7:55,Delhi,Bangalore,"11,520",28-Oct
+519,Air India,19:00,11:10,Delhi,Bangalore,"11,520",28-Oct
+520,Air India,18:40,17:05,Delhi,Bangalore,"11,520",28-Oct
+521,Air India,16:55,17:35,Delhi,Bangalore,"11,520",28-Oct
+522,Vistara,6:00,10:45,Delhi,Bangalore,"11,573",28-Oct
+523,Air India,18:00,19:00,Delhi,Bangalore,"11,625",28-Oct
+524,Air India,15:05,19:00,Delhi,Bangalore,"11,625",28-Oct
+525,Vistara,17:10,18:30,Delhi,Bangalore,"12,150",28-Oct
+526,Air India,14:10,17:55,Delhi,Bangalore,"12,150",28-Oct
+527,Vistara,7:30,20:55,Delhi,Bangalore,"12,255",28-Oct
+528,Vistara,7:30,22:50,Delhi,Bangalore,"12,255",28-Oct
+529,Vistara,7:30,17:45,Delhi,Bangalore,"12,360",28-Oct
+530,Vistara,17:10,8:50,Delhi,Bangalore,"12,401",28-Oct
+531,Vistara,17:10,10:45,Delhi,Bangalore,"12,401",28-Oct
+532,Air India,19:00,19:00,Delhi,Bangalore,"12,465",28-Oct
+533,Vistara,7:10,20:55,Delhi,Bangalore,"12,898",28-Oct
+534,Vistara,7:10,22:50,Delhi,Bangalore,"12,898",28-Oct
+535,Vistara,7:10,17:45,Delhi,Bangalore,"13,024",28-Oct
+536,Vistara,8:10,10:50,Delhi,Bangalore,"13,305",28-Oct
+537,Air India,16:35,22:20,Delhi,Bangalore,"13,410",28-Oct
+538,Vistara,13:40,18:30,Delhi,Bangalore,"14,093",28-Oct
+539,Air India,20:15,17:35,Delhi,Bangalore,"14,355",28-Oct
+540,Vistara,13:40,8:50,Delhi,Bangalore,"14,790",28-Oct
+541,Vistara,13:40,10:45,Delhi,Bangalore,"14,790",28-Oct
+542,Air India,20:00,7:55,Delhi,Bangalore,"14,985",28-Oct
+543,Air India,20:00,11:10,Delhi,Bangalore,"14,985",28-Oct
+544,Air India,7:20,12:50,Delhi,Bangalore,"15,563",28-Oct
+545,Air India,20:00,19:00,Delhi,Bangalore,"15,930",28-Oct
+546,SpiceJet,10:00,19:35,Delhi,Bangalore,"15,982",28-Oct
+547,AirAsia,12:40,22:25,Delhi,Bangalore,"17,138",28-Oct
+548,AirAsia,11:55,22:25,Delhi,Bangalore,"18,376",28-Oct
+549,AirAsia,5:20,16:35,Delhi,Bangalore,"18,376",28-Oct
+550,AirAsia,5:20,22:25,Delhi,Bangalore,"18,376",28-Oct
+551,Indigo,8:25,10:30,Delhi,Pune,"5,955",31-Oct
+552,Vistara,8:05,10:15,Delhi,Pune,"5,955",31-Oct
+553,GO FIRST,8:35,10:45,Delhi,Pune,"5,954",31-Oct
+554,SpiceJet,8:40,10:50,Delhi,Pune,"5,954",31-Oct
+555,GO FIRST,16:35,18:40,Delhi,Pune,"6,532",31-Oct
+556,SpiceJet,20:10,8:15,Delhi,Pune,"5,954",31-Oct
+557,GO FIRST,12:45,14:50,Delhi,Pune,"6,532",31-Oct
+558,Indigo,11:10,13:15,Delhi,Pune,"5,955",31-Oct
+559,GO FIRST,9:10,19:00,Delhi,Pune,"5,954",31-Oct
+560,GO FIRST,6:05,19:00,Delhi,Pune,"5,954",31-Oct
+561,GO FIRST,5:35,19:00,Delhi,Pune,"5,954",31-Oct
+562,GO FIRST,18:40,8:30,Delhi,Pune,"5,954",31-Oct
+563,Indigo,7:55,15:05,Delhi,Pune,"5,955",31-Oct
+564,Indigo,5:30,13:10,Delhi,Pune,"5,955",31-Oct
+565,Indigo,6:45,15:05,Delhi,Pune,"5,955",31-Oct
+566,Indigo,5:15,14:05,Delhi,Pune,"5,955",31-Oct
+567,Indigo,7:55,16:45,Delhi,Pune,"5,955",31-Oct
+568,Indigo,5:15,14:40,Delhi,Pune,"5,955",31-Oct
+569,Indigo,6:45,16:45,Delhi,Pune,"5,955",31-Oct
+570,Indigo,23:05,9:20,Delhi,Pune,"5,955",31-Oct
+571,Vistara,10:25,12:35,Delhi,Pune,"6,375",31-Oct
+572,Indigo,13:30,19:40,Delhi,Pune,"6,443",31-Oct
+573,Indigo,9:40,16:45,Delhi,Pune,"6,443",31-Oct
+574,Indigo,13:40,15:40,Delhi,Pune,"6,690",31-Oct
+575,Vistara,16:20,18:35,Delhi,Pune,"6,690",31-Oct
+576,AirAsia,21:00,11:20,Delhi,Pune,"6,690",31-Oct
+577,SpiceJet,17:45,19:55,Delhi,Pune,"6,794",31-Oct
+578,Indigo,9:40,15:05,Delhi,Pune,"6,932",31-Oct
+579,Indigo,9:55,16:40,Delhi,Pune,"6,932",31-Oct
+580,Indigo,7:00,15:10,Delhi,Pune,"6,932",31-Oct
+581,Vistara,14:15,16:20,Delhi,Pune,"7,005",31-Oct
+582,Vistara,17:25,19:40,Delhi,Pune,"7,005",31-Oct
+583,Indigo,11:05,16:40,Delhi,Pune,"7,420",31-Oct
+584,Indigo,7:25,17:15,Delhi,Pune,"7,420",31-Oct
+585,Indigo,7:25,13:25,Delhi,Pune,"7,908",31-Oct
+586,Indigo,23:05,10:35,Delhi,Pune,"8,396",31-Oct
+587,AirAsia,15:25,17:20,Delhi,Pune,"8,791",31-Oct
+588,AirAsia,16:05,18:05,Delhi,Pune,"8,791",31-Oct
+589,Indigo,15:05,19:40,Delhi,Pune,"9,525",31-Oct
+590,Air India,16:00,18:10,Delhi,Pune,"12,570",31-Oct
+591,Indigo,9:15,15:10,Delhi,Pune,"12,623",31-Oct
+592,GO FIRST,6:05,18:15,Delhi,Pune,"12,623",31-Oct
+593,GO FIRST,5:50,14:20,Delhi,Pune,"15,039",31-Oct
+594,Indigo,16:40,18:45,Delhi,Pune,"14,775",31-Oct
+595,Indigo,8:35,17:15,Delhi,Pune,"26,168",31-Oct
+596,GO FIRST,6:00,8:30,Kolkata,Delhi,"6,488",1-Nov
+597,SpiceJet,21:55,0:25,Kolkata,Delhi,"6,488",1-Nov
+598,GO FIRST,14:20,16:55,Kolkata,Delhi,"6,488",1-Nov
+599,SpiceJet,6:05,8:45,Kolkata,Delhi,"6,488",1-Nov
+600,Indigo,1:15,3:45,Kolkata,Delhi,"6,489",1-Nov
+601,Indigo,5:30,8:00,Kolkata,Delhi,"6,489",1-Nov
+602,Indigo,8:45,11:15,Kolkata,Delhi,"6,489",1-Nov
+603,Indigo,16:30,19:00,Kolkata,Delhi,"6,489",1-Nov
+604,Indigo,19:20,21:50,Kolkata,Delhi,"6,489",1-Nov
+605,Indigo,20:25,22:55,Kolkata,Delhi,"6,489",1-Nov
+606,Indigo,21:40,0:10,Kolkata,Delhi,"6,489",1-Nov
+607,Indigo,6:40,9:15,Kolkata,Delhi,"6,489",1-Nov
+608,Indigo,10:05,12:40,Kolkata,Delhi,"6,489",1-Nov
+609,AirAsia,23:40,2:10,Kolkata,Delhi,"6,490",1-Nov
+610,AirAsia,19:45,22:25,Kolkata,Delhi,"6,490",1-Nov
+611,Vistara,7:10,9:35,Kolkata,Delhi,"6,489",1-Nov
+612,GO FIRST,9:20,18:15,Kolkata,Delhi,"6,488",1-Nov
+613,GO FIRST,9:20,18:55,Kolkata,Delhi,"6,488",1-Nov
+614,GO FIRST,6:15,18:15,Kolkata,Delhi,"6,488",1-Nov
+615,GO FIRST,6:15,18:55,Kolkata,Delhi,"6,488",1-Nov
+616,Indigo,16:20,22:45,Kolkata,Delhi,"6,489",1-Nov
+617,Indigo,7:15,15:25,Kolkata,Delhi,"6,489",1-Nov
+618,SpiceJet,14:45,14:25,Kolkata,Delhi,"6,698",1-Nov
+619,Indigo,14:15,20:25,Kolkata,Delhi,"6,489",1-Nov
+620,Indigo,14:15,22:35,Kolkata,Delhi,"6,489",1-Nov
+621,Indigo,11:10,20:25,Kolkata,Delhi,"6,489",1-Nov
+622,Indigo,7:05,16:25,Kolkata,Delhi,"6,489",1-Nov
+623,Vistara,10:15,12:35,Kolkata,Delhi,"6,489",1-Nov
+624,Vistara,15:20,17:45,Kolkata,Delhi,"6,489",1-Nov
+625,Air India,7:00,9:15,Kolkata,Delhi,"6,489",1-Nov
+626,Air India,20:30,22:45,Kolkata,Delhi,"6,489",1-Nov
+627,Air India,10:25,12:55,Kolkata,Delhi,"6,489",1-Nov
+628,AirAsia,12:30,21:35,Kolkata,Delhi,"6,487",1-Nov
+629,AirAsia,21:35,8:55,Kolkata,Delhi,"6,487",1-Nov
+630,AirAsia,19:55,8:55,Kolkata,Delhi,"6,487",1-Nov
+631,AirAsia,19:35,8:55,Kolkata,Delhi,"6,487",1-Nov
+632,AirAsia,8:45,1:00,Kolkata,Delhi,"6,487",1-Nov
+633,SpiceJet,13:35,19:45,Kolkata,Delhi,"6,488",1-Nov
+634,GO FIRST,16:45,23:50,Kolkata,Delhi,"6,488",1-Nov
+635,GO FIRST,4:55,12:10,Kolkata,Delhi,"6,488",1-Nov
+636,GO FIRST,17:30,0:50,Kolkata,Delhi,"6,488",1-Nov
+637,GO FIRST,10:00,18:15,Kolkata,Delhi,"6,488",1-Nov
+638,GO FIRST,17:30,2:00,Kolkata,Delhi,"6,488",1-Nov
+639,GO FIRST,9:30,21:50,Kolkata,Delhi,"6,488",1-Nov
+640,GO FIRST,9:30,23:50,Kolkata,Delhi,"6,488",1-Nov
+641,GO FIRST,17:30,8:10,Kolkata,Delhi,"6,488",1-Nov
+642,GO FIRST,4:55,20:10,Kolkata,Delhi,"6,488",1-Nov
+643,GO FIRST,17:30,10:10,Kolkata,Delhi,"6,488",1-Nov
+644,Indigo,17:30,21:35,Kolkata,Delhi,"6,489",1-Nov
+645,Indigo,17:30,22:05,Kolkata,Delhi,"6,489",1-Nov
+646,Indigo,17:15,22:30,Kolkata,Delhi,"6,489",1-Nov
+647,Indigo,14:45,20:10,Kolkata,Delhi,"6,489",1-Nov
+648,Indigo,18:30,0:10,Kolkata,Delhi,"6,489",1-Nov
+649,Indigo,7:05,13:00,Kolkata,Delhi,"6,489",1-Nov
+650,Indigo,7:00,13:20,Kolkata,Delhi,"6,489",1-Nov
+651,Indigo,12:35,18:55,Kolkata,Delhi,"6,489",1-Nov
+652,Indigo,15:20,21:40,Kolkata,Delhi,"6,489",1-Nov
+653,Indigo,17:30,0:05,Kolkata,Delhi,"6,489",1-Nov
+654,Indigo,7:55,14:45,Kolkata,Delhi,"6,489",1-Nov
+655,Indigo,14:45,21:35,Kolkata,Delhi,"6,489",1-Nov
+656,Indigo,11:55,18:55,Kolkata,Delhi,"6,489",1-Nov
+657,Indigo,11:40,18:45,Kolkata,Delhi,"6,489",1-Nov
+658,Indigo,14:45,22:05,Kolkata,Delhi,"6,489",1-Nov
+659,Indigo,11:30,18:55,Kolkata,Delhi,"6,489",1-Nov
+660,Indigo,14:50,22:30,Kolkata,Delhi,"6,489",1-Nov
+661,Indigo,17:25,1:20,Kolkata,Delhi,"6,489",1-Nov
+662,Indigo,17:30,1:40,Kolkata,Delhi,"6,489",1-Nov
+663,Indigo,6:10,14:25,Kolkata,Delhi,"6,489",1-Nov
+664,Indigo,14:45,0:05,Kolkata,Delhi,"6,489",1-Nov
+665,Indigo,11:55,21:20,Kolkata,Delhi,"6,489",1-Nov
+666,Indigo,17:30,3:15,Kolkata,Delhi,"6,489",1-Nov
+667,Indigo,18:05,20:35,Kolkata,Delhi,"6,804",1-Nov
+668,AirAsia,19:55,3:35,Kolkata,Delhi,"6,804",1-Nov
+669,Indigo,6:10,10:25,Kolkata,Delhi,"6,977",1-Nov
+670,Indigo,11:25,13:50,Kolkata,Delhi,"7,119",1-Nov
+671,AirAsia,16:30,1:10,Kolkata,Delhi,"7,541",1-Nov
+672,Air India,15:05,21:35,Kolkata,Delhi,"8,852",1-Nov
+673,AirAsia,19:35,3:35,Kolkata,Delhi,"9,277",1-Nov
+674,Air India,12:00,23:45,Kolkata,Delhi,"9,534",1-Nov
+675,Air India,11:35,23:45,Kolkata,Delhi,"9,534",1-Nov
+676,Air India,12:00,16:15,Kolkata,Delhi,"9,534",1-Nov
+677,Air India,11:35,16:15,Kolkata,Delhi,"9,534",1-Nov
+678,Air India,15:05,20:55,Kolkata,Delhi,"9,775",1-Nov
+679,Air India,15:05,14:40,Kolkata,Delhi,"9,775",1-Nov
+680,AirAsia,19:55,14:05,Kolkata,Delhi,"9,901",1-Nov
+681,Air India,12:00,23:15,Kolkata,Delhi,"9,954",1-Nov
+682,Air India,11:35,23:15,Kolkata,Delhi,"9,954",1-Nov
+683,AirAsia,21:35,14:05,Kolkata,Delhi,"10,794",1-Nov
+684,AirAsia,9:05,14:55,Kolkata,Delhi,"11,424",1-Nov
+685,SpiceJet,10:15,18:15,Kolkata,Delhi,"11,318",1-Nov
+686,AirAsia,7:35,20:50,Kolkata,Delhi,"11,806",1-Nov
+687,GO FIRST,10:00,18:55,Kolkata,Delhi,"11,827",1-Nov
+688,Air India,9:50,22:05,Kolkata,Delhi,"11,844",1-Nov
+689,Air India,7:45,22:05,Kolkata,Delhi,"11,844",1-Nov
+690,Air India,5:55,22:05,Kolkata,Delhi,"11,844",1-Nov
+691,AirAsia,7:35,20:10,Kolkata,Delhi,"12,221",1-Nov
+692,Air India,19:00,8:55,Kolkata,Delhi,"12,474",1-Nov
+693,Vistara,20:35,8:05,Kolkata,Delhi,"13,524",1-Nov
+694,Vistara,20:35,9:40,Kolkata,Delhi,"13,524",1-Nov
+695,Vistara,20:35,11:00,Kolkata,Delhi,"13,524",1-Nov
+696,Vistara,20:35,16:55,Kolkata,Delhi,"13,524",1-Nov
+697,Vistara,20:35,18:05,Kolkata,Delhi,"13,524",1-Nov
+698,Vistara,20:35,19:40,Kolkata,Delhi,"13,524",1-Nov
+699,Air India,19:00,13:50,Kolkata,Delhi,"13,314",1-Nov
+700,GO FIRST,4:55,14:30,Kolkata,Delhi,"13,386",1-Nov
+701,GO FIRST,4:55,15:45,Kolkata,Delhi,"13,386",1-Nov
+702,Vistara,10:25,16:55,Kolkata,Delhi,"13,524",1-Nov
+703,Vistara,17:35,0:10,Kolkata,Delhi,"13,524",1-Nov
+704,Vistara,17:35,0:55,Kolkata,Delhi,"13,524",1-Nov
+705,Vistara,10:25,18:05,Kolkata,Delhi,"13,524",1-Nov
+706,Vistara,10:25,19:40,Kolkata,Delhi,"13,524",1-Nov
+707,Vistara,10:25,20:40,Kolkata,Delhi,"13,524",1-Nov
+708,Vistara,10:25,21:55,Kolkata,Delhi,"13,524",1-Nov
+709,Vistara,20:35,8:35,Kolkata,Delhi,"13,524",1-Nov
+710,Vistara,10:25,23:00,Kolkata,Delhi,"13,524",1-Nov
+711,Vistara,10:25,0:10,Kolkata,Delhi,"13,524",1-Nov
+712,Vistara,10:25,0:55,Kolkata,Delhi,"13,524",1-Nov
+713,Vistara,17:35,8:05,Kolkata,Delhi,"13,524",1-Nov
+714,Vistara,17:35,8:35,Kolkata,Delhi,"13,524",1-Nov
+715,Vistara,17:35,9:40,Kolkata,Delhi,"13,524",1-Nov
+716,Vistara,20:35,12:40,Kolkata,Delhi,"13,524",1-Nov
+717,Vistara,17:35,11:00,Kolkata,Delhi,"13,524",1-Nov
+718,Vistara,20:35,14:05,Kolkata,Delhi,"13,524",1-Nov
+719,Air India,14:10,8:45,Kolkata,Delhi,"13,524",1-Nov
+720,Air India,14:10,13:00,Kolkata,Delhi,"13,524",1-Nov
+721,Air India,14:10,20:35,Kolkata,Delhi,"13,944",1-Nov
+722,GO FIRST,11:50,17:40,Kolkata,Delhi,"15,205",1-Nov
+723,GO FIRST,16:25,22:45,Kolkata,Delhi,"15,701",1-Nov
+724,GO FIRST,11:50,21:30,Kolkata,Delhi,"15,939",1-Nov
+725,Vistara,10:25,16:30,Kolkata,Delhi,"16,111",1-Nov
+726,Air India,18:10,11:50,Kolkata,Delhi,"16,297",1-Nov
+727,Air India,9:55,11:50,Kolkata,Delhi,"16,297",1-Nov
+728,Air India,17:15,8:55,Kolkata,Delhi,"16,359",1-Nov
+729,Vistara,10:25,22:25,Kolkata,Delhi,"17,996",1-Nov
+730,Vistara,10:25,23:45,Kolkata,Delhi,"17,996",1-Nov
+731,Vistara,10:25,23:45,Kolkata,Delhi,"17,996",1-Nov
+732,Vistara,20:35,12:40,Kolkata,Delhi,"17,996",1-Nov
+733,Vistara,20:35,12:40,Kolkata,Delhi,"17,996",1-Nov
+734,Vistara,17:35,10:40,Kolkata,Delhi,"17,996",1-Nov
+735,Vistara,20:35,14:10,Kolkata,Delhi,"17,996",1-Nov
+736,Vistara,10:25,23:55,Kolkata,Delhi,"18,815",1-Nov
+737,Air India,17:15,13:00,Kolkata,Delhi,"19,404",1-Nov
+738,Air India,12:00,9:30,Kolkata,Delhi,"20,497",1-Nov
+739,Air India,9:40,23:30,Kolkata,Delhi,"22,554",1-Nov
+740,Air India,9:40,21:15,Kolkata,Delhi,"25,389",1-Nov
+741,Air India,9:40,20:30,Kolkata,Delhi,"32,319",1-Nov
+742,GO FIRST,5:35,6:50,Mumbai,Goa,"4,262",2-Nov
+743,GO FIRST,16:20,17:45,Mumbai,Goa,"4,262",2-Nov
+744,SpiceJet,11:15,12:50,Mumbai,Goa,"4,262",2-Nov
+745,SpiceJet,15:30,17:05,Mumbai,Goa,"4,262",2-Nov
+746,Indigo,7:30,8:40,Mumbai,Goa,"4,263",2-Nov
+747,Indigo,5:40,6:55,Mumbai,Goa,"4,263",2-Nov
+748,Vistara,13:35,14:55,Mumbai,Goa,"4,263",2-Nov
+749,Indigo,14:05,15:15,Mumbai,Goa,"4,263",2-Nov
+750,GO FIRST,15:20,16:30,Mumbai,Goa,"4,262",2-Nov
+751,GO FIRST,11:30,12:45,Mumbai,Goa,"4,262",2-Nov
+752,Vistara,11:25,12:45,Mumbai,Goa,"4,263",2-Nov
+753,Air India,5:30,6:50,Mumbai,Goa,"4,263",2-Nov
+754,Air India,13:25,14:45,Mumbai,Goa,"4,263",2-Nov
+755,Indigo,10:15,11:20,Mumbai,Goa,"4,368",2-Nov
+756,Indigo,16:55,18:00,Mumbai,Goa,"4,368",2-Nov
+757,Indigo,11:30,12:35,Mumbai,Goa,"4,578",2-Nov
+758,Vistara,9:05,13:50,Mumbai,Goa,"8,988",2-Nov
+759,Vistara,7:00,13:50,Mumbai,Goa,"8,988",2-Nov
+760,Vistara,6:00,13:50,Mumbai,Goa,"8,988",2-Nov
+761,GO FIRST,6:05,17:10,Mumbai,Goa,"8,883",2-Nov
+762,AirAsia,2:35,7:00,Mumbai,Goa,"8,857",2-Nov
+763,Air India,19:05,20:30,Mumbai,Goa,"8,831",2-Nov
+764,AirAsia,13:05,19:35,Mumbai,Goa,"8,857",2-Nov
+765,AirAsia,2:35,19:35,Mumbai,Goa,"8,857",2-Nov
+766,Vistara,21:00,13:50,Mumbai,Goa,"10,196",2-Nov
+767,Vistara,17:30,13:50,Mumbai,Goa,"10,196",2-Nov
+768,Vistara,16:00,13:50,Mumbai,Goa,"10,301",2-Nov
+769,Vistara,19:10,13:50,Mumbai,Goa,"10,511",2-Nov
+770,GO FIRST,23:45,13:30,Mumbai,Goa,"12,847",2-Nov
+771,GO FIRST,6:00,13:30,Mumbai,Goa,"12,847",2-Nov
+772,GO FIRST,21:15,13:30,Mumbai,Goa,"12,847",2-Nov
+773,Vistara,6:00,21:20,Mumbai,Goa,"12,978",2-Nov
+774,Vistara,22:45,21:20,Mumbai,Goa,"12,978",2-Nov
+775,Vistara,21:55,21:20,Mumbai,Goa,"12,978",2-Nov
+776,Vistara,20:55,21:20,Mumbai,Goa,"12,978",2-Nov
+777,Vistara,14:40,21:20,Mumbai,Goa,"12,978",2-Nov
+778,Vistara,8:45,21:20,Mumbai,Goa,"12,978",2-Nov
+779,Vistara,7:30,21:20,Mumbai,Goa,"12,978",2-Nov
+780,Vistara,19:45,21:20,Mumbai,Goa,"12,978",2-Nov
+781,Vistara,18:30,21:20,Mumbai,Goa,"12,978",2-Nov
+782,Vistara,17:30,21:20,Mumbai,Goa,"12,978",2-Nov
+783,Vistara,19:20,13:50,Mumbai,Goa,"11,474",2-Nov
+784,Vistara,6:20,13:50,Mumbai,Goa,"11,474",2-Nov
+785,GO FIRST,22:40,13:30,Mumbai,Goa,"12,847",2-Nov
+786,Air India,5:45,10:15,Mumbai,Goa,"12,716",2-Nov
+787,Air India,7:00,13:15,Mumbai,Goa,"12,978",2-Nov
+788,Vistara,7:30,13:50,Mumbai,Goa,"12,978",2-Nov
+789,Vistara,6:30,13:50,Mumbai,Goa,"12,978",2-Nov
+790,Vistara,6:00,13:50,Mumbai,Goa,"12,978",2-Nov
+791,Vistara,11:55,21:20,Mumbai,Goa,"12,978",2-Nov
+792,Vistara,10:25,21:20,Mumbai,Goa,"12,978",2-Nov
+793,Vistara,6:30,21:20,Mumbai,Goa,"12,978",2-Nov
+794,Vistara,22:45,13:50,Mumbai,Goa,"13,083",2-Nov
+795,Vistara,21:55,13:50,Mumbai,Goa,"13,083",2-Nov
+796,Vistara,20:55,13:50,Mumbai,Goa,"13,083",2-Nov
+797,Vistara,19:45,13:50,Mumbai,Goa,"13,083",2-Nov
+798,Vistara,18:30,13:50,Mumbai,Goa,"13,083",2-Nov
+799,Vistara,17:30,13:50,Mumbai,Goa,"13,083",2-Nov
+800,Vistara,15:45,13:50,Mumbai,Goa,"13,083",2-Nov
+801,Vistara,6:20,21:20,Mumbai,Goa,"14,566",2-Nov
+802,Vistara,19:20,13:50,Mumbai,Goa,"14,566",2-Nov
+803,Vistara,19:20,21:20,Mumbai,Goa,"14,566",2-Nov
+804,Vistara,6:20,13:50,Mumbai,Goa,"14,566",2-Nov
+805,Vistara,6:20,13:50,Mumbai,Goa,"14,566",2-Nov
+806,Vistara,6:20,13:50,Mumbai,Goa,"14,566",2-Nov
+807,Vistara,6:20,13:50,Mumbai,Goa,"14,566",2-Nov
+808,Vistara,6:20,21:20,Mumbai,Goa,"14,566",2-Nov
+809,Vistara,6:20,21:20,Mumbai,Goa,"14,566",2-Nov
+810,Vistara,6:20,21:20,Mumbai,Goa,"14,566",2-Nov
+811,Vistara,19:20,21:20,Mumbai,Goa,"15,070",2-Nov
+812,Vistara,12:15,21:20,Mumbai,Goa,"15,329",2-Nov
+813,Vistara,12:15,13:50,Mumbai,Goa,"15,329",2-Nov
+814,Air India,8:00,10:15,Mumbai,Goa,"16,037",2-Nov
+815,Air India,21:30,13:15,Mumbai,Goa,"22,008",2-Nov
+816,Air India,16:00,10:15,Mumbai,Goa,"29,726",2-Nov
+817,Air India,19:00,13:15,Mumbai,Goa,"31,773",2-Nov
+818,Air India,16:00,13:15,Mumbai,Goa,"31,773",2-Nov
+819,GO FIRST,21:15,22:55,Mumbai,Bangalore,"5,102",30-Oct
+820,GO FIRST,22:15,0:05,Mumbai,Bangalore,"5,102",30-Oct
+821,AirAsia,22:50,0:40,Mumbai,Bangalore,"5,104",30-Oct
+822,GO FIRST,6:05,7:45,Mumbai,Bangalore,"5,102",30-Oct
+823,AirAsia,20:50,22:25,Mumbai,Bangalore,"5,104",30-Oct
+824,Vistara,6:00,7:50,Mumbai,Bangalore,"5,103",30-Oct
+825,AirAsia,16:35,1:00,Mumbai,Bangalore,"5,100",30-Oct
+826,AirAsia,5:55,18:20,Mumbai,Bangalore,"5,100",30-Oct
+827,GO FIRST,19:20,8:40,Mumbai,Bangalore,"5,100",30-Oct
+828,GO FIRST,19:20,10:20,Mumbai,Bangalore,"5,100",30-Oct
+829,GO FIRST,19:20,13:30,Mumbai,Bangalore,"5,100",30-Oct
+830,GO FIRST,13:55,20:50,Mumbai,Bangalore,"5,102",30-Oct
+831,GO FIRST,16:10,23:40,Mumbai,Bangalore,"5,102",30-Oct
+832,GO FIRST,11:50,22:15,Mumbai,Bangalore,"5,102",30-Oct
+833,GO FIRST,7:00,22:15,Mumbai,Bangalore,"5,102",30-Oct
+834,Vistara,21:00,22:50,Mumbai,Bangalore,"5,208",30-Oct
+835,GO FIRST,18:05,19:45,Mumbai,Bangalore,"6,258",30-Oct
+836,Vistara,19:10,20:55,Mumbai,Bangalore,"5,681",30-Oct
+837,Air India,6:15,7:55,Mumbai,Bangalore,"5,733",30-Oct
+838,AirAsia,8:00,18:20,Mumbai,Bangalore,"5,996",30-Oct
+839,AirAsia,5:55,16:35,Mumbai,Bangalore,"5,996",30-Oct
+840,Indigo,5:10,6:45,Mumbai,Bangalore,"6,258",30-Oct
+841,Indigo,20:45,22:35,Mumbai,Bangalore,"6,468",30-Oct
+842,Vistara,7:00,8:50,Mumbai,Bangalore,"6,521",30-Oct
+843,Indigo,18:05,22:35,Mumbai,Bangalore,"8,096",30-Oct
+844,Indigo,16:45,22:35,Mumbai,Bangalore,"8,096",30-Oct
+845,Indigo,19:25,21:10,Mumbai,Bangalore,"6,783",30-Oct
+846,AirAsia,8:00,16:35,Mumbai,Bangalore,"6,784",30-Oct
+847,Indigo,18:15,22:35,Mumbai,Bangalore,"7,991",30-Oct
+848,Vistara,19:15,8:50,Mumbai,Bangalore,"8,148",30-Oct
+849,Vistara,16:00,17:45,Mumbai,Bangalore,"7,046",30-Oct
+850,Indigo,14:25,22:35,Mumbai,Bangalore,"8,201",30-Oct
+851,Indigo,17:45,19:25,Mumbai,Bangalore,"7,518",30-Oct
+852,Indigo,7:25,13:25,Mumbai,Bangalore,"8,411",30-Oct
+853,Indigo,16:30,18:15,Mumbai,Bangalore,"7,938",30-Oct
+854,Indigo,7:05,9:00,Mumbai,Bangalore,"7,938",30-Oct
+855,GO FIRST,9:50,13:25,Mumbai,Bangalore,"8,043",30-Oct
+856,Air India,5:45,14:45,Mumbai,Bangalore,"8,148",30-Oct
+857,Air India,5:45,22:20,Mumbai,Bangalore,"8,148",30-Oct
+858,Air India,21:15,14:45,Mumbai,Bangalore,"8,148",30-Oct
+859,Air India,19:25,14:45,Mumbai,Bangalore,"8,148",30-Oct
+860,Air India,21:15,22:15,Mumbai,Bangalore,"8,148",30-Oct
+861,Air India,19:25,22:15,Mumbai,Bangalore,"8,148",30-Oct
+862,Vistara,6:55,8:50,Mumbai,Bangalore,"8,201",30-Oct
+863,Vistara,9:05,10:45,Mumbai,Bangalore,"8,306",30-Oct
+864,AirAsia,12:15,14:00,Mumbai,Bangalore,"8,331",30-Oct
+865,Indigo,7:25,14:15,Mumbai,Bangalore,"8,411",30-Oct
+866,Indigo,8:35,10:15,Mumbai,Bangalore,"8,463",30-Oct
+867,Indigo,15:15,21:55,Mumbai,Bangalore,"8,463",30-Oct
+868,SpiceJet,7:20,9:00,Mumbai,Bangalore,"8,779",30-Oct
+869,Vistara,11:25,16:00,Mumbai,Bangalore,"8,883",30-Oct
+870,Indigo,13:45,15:25,Mumbai,Bangalore,"9,093",30-Oct
+871,Vistara,11:25,8:50,Mumbai,Bangalore,"9,356",30-Oct
+872,AirAsia,14:55,20:25,Mumbai,Bangalore,"9,779",30-Oct
+873,AirAsia,14:55,22:25,Mumbai,Bangalore,"9,779",30-Oct
+874,AirAsia,14:55,0:35,Mumbai,Bangalore,"9,779",30-Oct
+875,Indigo,9:55,11:40,Mumbai,Bangalore,"9,828",30-Oct
+876,Indigo,9:00,13:25,Mumbai,Bangalore,"9,828",30-Oct
+877,Indigo,9:00,14:15,Mumbai,Bangalore,"9,828",30-Oct
+878,Indigo,9:00,17:40,Mumbai,Bangalore,"9,828",30-Oct
+879,Air India,5:20,14:25,Mumbai,Bangalore,"9,828",30-Oct
+880,Indigo,16:25,21:10,Mumbai,Bangalore,"9,881",30-Oct
+881,Indigo,16:25,22:35,Mumbai,Bangalore,"9,881",30-Oct
+882,Indigo,10:05,14:15,Mumbai,Bangalore,"10,196",30-Oct
+883,Indigo,10:05,17:40,Mumbai,Bangalore,"10,196",30-Oct
+884,Indigo,13:45,19:50,Mumbai,Bangalore,"10,248",30-Oct
+885,Indigo,13:45,21:10,Mumbai,Bangalore,"10,248",30-Oct
+886,Indigo,11:15,17:40,Mumbai,Bangalore,"10,721",30-Oct
+887,Air India,16:45,18:30,Mumbai,Bangalore,"11,088",30-Oct
+888,Vistara,18:35,16:00,Mumbai,Bangalore,"11,141",30-Oct
+889,Vistara,13:20,16:00,Mumbai,Bangalore,"11,141",30-Oct
+890,Indigo,13:00,17:45,Mumbai,Bangalore,"11,666",30-Oct
+891,Indigo,15:25,21:20,Mumbai,Bangalore,"11,666",30-Oct
+892,Indigo,7:20,14:15,Mumbai,Bangalore,"11,666",30-Oct
+893,Indigo,13:00,21:20,Mumbai,Bangalore,"11,666",30-Oct
+894,AirAsia,16:35,0:35,Mumbai,Bangalore,"12,468",30-Oct
+895,AirAsia,16:35,11:35,Mumbai,Bangalore,"12,468",30-Oct
+896,Indigo,10:20,16:30,Mumbai,Bangalore,"12,926",30-Oct
+897,Indigo,10:20,17:45,Mumbai,Bangalore,"12,926",30-Oct
+898,Vistara,22:45,9:00,Mumbai,Bangalore,"13,182",30-Oct
+899,Vistara,22:45,10:50,Mumbai,Bangalore,"13,182",30-Oct
+900,Vistara,22:45,17:05,Mumbai,Bangalore,"13,182",30-Oct
+901,Vistara,22:45,17:50,Mumbai,Bangalore,"13,182",30-Oct
+902,Vistara,22:45,18:50,Mumbai,Bangalore,"13,182",30-Oct
+903,Indigo,8:15,16:30,Mumbai,Bangalore,"13,346",30-Oct
+904,SpiceJet,7:20,16:55,Mumbai,Bangalore,"13,609",30-Oct
+905,Indigo,8:15,14:15,Mumbai,Bangalore,"13,976",30-Oct
+906,GO FIRST,22:15,8:40,Mumbai,Bangalore,"14,001",30-Oct
+907,GO FIRST,21:40,8:40,Mumbai,Bangalore,"14,001",30-Oct
+908,Vistara,21:55,9:00,Mumbai,Bangalore,"14,074",30-Oct
+909,Vistara,21:55,10:50,Mumbai,Bangalore,"14,074",30-Oct
+910,Vistara,21:55,17:05,Mumbai,Bangalore,"14,074",30-Oct
+911,Vistara,21:55,17:50,Mumbai,Bangalore,"14,074",30-Oct
+912,Vistara,21:55,18:50,Mumbai,Bangalore,"14,074",30-Oct
+913,Vistara,21:55,20:25,Mumbai,Bangalore,"14,074",30-Oct
+914,Air India,9:30,11:10,Mumbai,Bangalore,"14,238",30-Oct
+915,GO FIRST,20:40,8:40,Mumbai,Bangalore,"14,631",30-Oct
+916,Indigo,12:05,17:40,Mumbai,Bangalore,"14,658",30-Oct
+917,Indigo,12:05,19:50,Mumbai,Bangalore,"14,658",30-Oct
+918,Indigo,9:30,14:55,Mumbai,Bangalore,"14,711",30-Oct
+919,SpiceJet,14:20,9:00,Mumbai,Bangalore,"15,709",30-Oct
+920,Vistara,20:55,9:00,Mumbai,Bangalore,"15,813",30-Oct
+921,Vistara,19:45,9:00,Mumbai,Bangalore,"15,813",30-Oct
+922,Vistara,20:55,10:50,Mumbai,Bangalore,"15,813",30-Oct
+923,Vistara,19:45,10:50,Mumbai,Bangalore,"15,813",30-Oct
+924,Air India,17:10,17:55,Mumbai,Bangalore,"15,971",30-Oct
+925,Vistara,18:30,9:00,Mumbai,Bangalore,"16,548",30-Oct
+926,Vistara,18:30,10:50,Mumbai,Bangalore,"16,548",30-Oct
+927,Air India,9:00,14:25,Mumbai,Bangalore,"17,178",30-Oct
+928,Vistara,17:30,23:20,Mumbai,Bangalore,"17,493",30-Oct
+929,Vistara,17:30,9:00,Mumbai,Bangalore,"17,493",30-Oct
+930,Vistara,13:20,20:25,Mumbai,Bangalore,"17,630",30-Oct
+931,Vistara,13:20,22:40,Mumbai,Bangalore,"17,630",30-Oct
+932,Vistara,16:05,18:00,Mumbai,Bangalore,"19,173",30-Oct
+933,Vistara,15:45,22:40,Mumbai,Bangalore,"19,803",30-Oct
+934,Vistara,15:45,23:20,Mumbai,Bangalore,"19,803",30-Oct
+935,GO FIRST,13:50,22:20,Mumbai,Bangalore,"20,091",30-Oct
+936,GO FIRST,8:30,23:40,Mumbai,Bangalore,"20,407",30-Oct
+937,Vistara,5:30,16:55,Mumbai,Bangalore,"20,502",30-Oct
+938,GO FIRST,15:45,22:20,Mumbai,Bangalore,"22,611",30-Oct
+939,GO FIRST,10:00,22:20,Mumbai,Bangalore,"22,611",30-Oct
+940,GO FIRST,9:20,22:20,Mumbai,Bangalore,"22,611",30-Oct
+941,GO FIRST,6:00,22:20,Mumbai,Bangalore,"22,611",30-Oct
+942,Vistara,14:40,20:25,Mumbai,Bangalore,"22,743",30-Oct
+943,Vistara,11:55,18:50,Mumbai,Bangalore,"22,743",30-Oct
+944,Vistara,14:40,22:40,Mumbai,Bangalore,"22,743",30-Oct
+945,Vistara,8:45,16:55,Mumbai,Bangalore,"22,743",30-Oct
+946,Vistara,11:55,20:25,Mumbai,Bangalore,"22,743",30-Oct
+947,Vistara,14:40,23:20,Mumbai,Bangalore,"22,743",30-Oct
+948,Vistara,7:30,16:55,Mumbai,Bangalore,"22,743",30-Oct
+949,Vistara,8:45,18:50,Mumbai,Bangalore,"22,743",30-Oct
+950,Vistara,11:55,22:40,Mumbai,Bangalore,"22,743",30-Oct
+951,Vistara,7:30,18:50,Mumbai,Bangalore,"22,743",30-Oct
+952,Vistara,11:55,23:20,Mumbai,Bangalore,"22,743",30-Oct
+953,Vistara,8:45,20:25,Mumbai,Bangalore,"22,743",30-Oct
+954,Vistara,7:30,20:25,Mumbai,Bangalore,"22,743",30-Oct
+955,Vistara,8:45,22:40,Mumbai,Bangalore,"22,743",30-Oct
+956,Vistara,8:45,23:20,Mumbai,Bangalore,"22,743",30-Oct
+957,Air India,18:00,8:55,Mumbai,Bangalore,"22,743",30-Oct
+958,Vistara,7:30,22:40,Mumbai,Bangalore,"22,743",30-Oct
+959,Vistara,7:30,23:20,Mumbai,Bangalore,"22,743",30-Oct
+960,Air India,18:00,20:05,Mumbai,Bangalore,"22,743",30-Oct
+961,Vistara,9:30,18:30,Mumbai,Bangalore,"24,423",30-Oct
+962,Air India,18:00,16:15,Mumbai,Bangalore,"25,788",30-Oct
+963,Air India,18:00,12:30,Mumbai,Bangalore,"27,888",30-Oct
+964,Air India,7:00,16:15,Mumbai,Bangalore,"30,198",30-Oct
+965,AirAsia,12:40,15:25,Delhi,Goa,"7,426",2-Nov
+966,AirAsia,5:20,7:50,Delhi,Goa,"7,633",2-Nov
+967,AirAsia,12:10,14:55,Delhi,Goa,"7,633",2-Nov
+968,SpiceJet,12:00,14:25,Delhi,Goa,"7,424",2-Nov
+969,SpiceJet,16:20,19:00,Delhi,Goa,"7,424",2-Nov
+970,Vistara,18:40,21:20,Delhi,Goa,"7,425",2-Nov
+971,SpiceJet,7:20,12:50,Delhi,Goa,"7,424",2-Nov
+972,SpiceJet,6:20,12:50,Delhi,Goa,"7,424",2-Nov
+973,SpiceJet,7:20,17:05,Delhi,Goa,"7,424",2-Nov
+974,SpiceJet,6:20,17:05,Delhi,Goa,"7,424",2-Nov
+975,GO FIRST,2:00,6:50,Delhi,Goa,"7,424",2-Nov
+976,GO FIRST,22:30,6:50,Delhi,Goa,"7,424",2-Nov
+977,GO FIRST,19:40,6:50,Delhi,Goa,"7,424",2-Nov
+978,GO FIRST,18:05,6:50,Delhi,Goa,"7,424",2-Nov
+979,GO FIRST,10:45,13:30,Delhi,Goa,"7,424",2-Nov
+980,Indigo,15:50,18:20,Delhi,Goa,"7,425",2-Nov
+981,Indigo,18:55,21:30,Delhi,Goa,"7,425",2-Nov
+982,GO FIRST,21:00,6:50,Delhi,Goa,"7,424",2-Nov
+983,GO FIRST,6:05,17:10,Delhi,Goa,"7,424",2-Nov
+984,Indigo,1:05,6:55,Delhi,Goa,"7,425",2-Nov
+985,Indigo,1:05,8:40,Delhi,Goa,"7,425",2-Nov
+986,SpiceJet,5:55,20:35,Delhi,Goa,"7,424",2-Nov
+987,Indigo,6:30,11:20,Delhi,Goa,"7,425",2-Nov
+988,Indigo,8:25,14:55,Delhi,Goa,"7,425",2-Nov
+989,Indigo,4:45,11:20,Delhi,Goa,"7,425",2-Nov
+990,Indigo,10:45,18:00,Delhi,Goa,"7,425",2-Nov
+991,Indigo,11:05,13:35,Delhi,Goa,"7,425",2-Nov
+992,Indigo,9:55,12:30,Delhi,Goa,"7,425",2-Nov
+993,Indigo,12:15,14:50,Delhi,Goa,"7,425",2-Nov
+994,Vistara,11:10,13:50,Delhi,Goa,"7,425",2-Nov
+995,Air India,10:55,13:15,Delhi,Goa,"7,425",2-Nov
+996,AirAsia,9:35,19:35,Delhi,Goa,"7,423",2-Nov
+997,AirAsia,8:00,19:35,Delhi,Goa,"7,423",2-Nov
+998,GO FIRST,9:10,17:10,Delhi,Goa,"7,424",2-Nov
+999,GO FIRST,5:35,17:10,Delhi,Goa,"7,424",2-Nov
+1000,Indigo,7:15,12:35,Delhi,Goa,"7,425",2-Nov
+1001,Indigo,8:20,14:05,Delhi,Goa,"7,425",2-Nov
+1002,Indigo,9:30,15:15,Delhi,Goa,"7,425",2-Nov
+1003,Indigo,15:30,21:15,Delhi,Goa,"7,425",2-Nov
+1004,Indigo,12:00,18:00,Delhi,Goa,"7,425",2-Nov
+1005,Indigo,6:30,12:35,Delhi,Goa,"7,425",2-Nov
+1006,Indigo,7:55,14:00,Delhi,Goa,"7,425",2-Nov
+1007,Indigo,13:00,19:05,Delhi,Goa,"7,425",2-Nov
+1008,Indigo,4:15,10:25,Delhi,Goa,"7,425",2-Nov
+1009,Indigo,9:15,15:35,Delhi,Goa,"7,425",2-Nov
+1010,Indigo,11:00,17:25,Delhi,Goa,"7,425",2-Nov
+1011,Indigo,12:00,18:25,Delhi,Goa,"7,425",2-Nov
+1012,Indigo,8:45,15:15,Delhi,Goa,"7,425",2-Nov
+1013,Indigo,5:15,12:00,Delhi,Goa,"7,425",2-Nov
+1014,Indigo,7:20,14:05,Delhi,Goa,"7,425",2-Nov
+1015,Indigo,12:45,19:40,Delhi,Goa,"7,425",2-Nov
+1016,Indigo,8:10,15:15,Delhi,Goa,"7,425",2-Nov
+1017,Indigo,6:45,14:00,Delhi,Goa,"7,425",2-Nov
+1018,Indigo,8:20,15:35,Delhi,Goa,"7,425",2-Nov
+1019,Indigo,23:15,6:55,Delhi,Goa,"7,425",2-Nov
+1020,Indigo,9:40,17:25,Delhi,Goa,"7,425",2-Nov
+1021,Indigo,4:45,12:35,Delhi,Goa,"7,425",2-Nov
+1022,Indigo,13:00,20:50,Delhi,Goa,"7,425",2-Nov
+1023,GO FIRST,10:30,16:30,Delhi,Goa,"9,704",2-Nov
+1024,GO FIRST,10:30,17:45,Delhi,Goa,"9,704",2-Nov
+1025,GO FIRST,8:00,16:30,Delhi,Goa,"9,704",2-Nov
+1026,GO FIRST,7:00,16:30,Delhi,Goa,"9,704",2-Nov
+1027,GO FIRST,8:00,17:45,Delhi,Goa,"9,704",2-Nov
+1028,GO FIRST,7:00,17:45,Delhi,Goa,"9,704",2-Nov
+1029,GO FIRST,2:00,16:30,Delhi,Goa,"9,704",2-Nov
+1030,Vistara,10:20,14:55,Delhi,Goa,"9,840",2-Nov
+1031,Vistara,9:30,14:55,Delhi,Goa,"9,840",2-Nov
+1032,Vistara,6:00,14:55,Delhi,Goa,"9,840",2-Nov
+1033,GO FIRST,7:20,21:00,Delhi,Goa,"10,242",2-Nov
+1034,Vistara,8:50,14:55,Delhi,Goa,"9,840",2-Nov
+1035,Vistara,7:30,14:55,Delhi,Goa,"9,840",2-Nov
+1036,GO FIRST,8:00,12:45,Delhi,Goa,"9,704",2-Nov
+1037,GO FIRST,7:00,12:45,Delhi,Goa,"9,704",2-Nov
+1038,GO FIRST,2:00,12:45,Delhi,Goa,"9,704",2-Nov
+1039,SpiceJet,17:45,12:50,Delhi,Goa,"9,735",2-Nov
+1040,Vistara,7:30,12:45,Delhi,Goa,"9,840",2-Nov
+1041,Vistara,6:00,12:45,Delhi,Goa,"9,840",2-Nov
+1042,Air India,8:00,14:45,Delhi,Goa,"9,840",2-Nov
+1043,Air India,7:00,14:45,Delhi,Goa,"9,840",2-Nov
+1044,Vistara,21:40,14:55,Delhi,Goa,"10,575",2-Nov
+1045,Vistara,20:40,14:55,Delhi,Goa,"10,575",2-Nov
+1046,Vistara,19:50,14:55,Delhi,Goa,"10,575",2-Nov
+1047,Vistara,18:55,14:55,Delhi,Goa,"10,575",2-Nov
+1048,Vistara,17:45,14:55,Delhi,Goa,"10,575",2-Nov
+1049,Vistara,16:55,14:55,Delhi,Goa,"10,575",2-Nov
+1050,Vistara,15:30,14:55,Delhi,Goa,"10,575",2-Nov
+1051,Vistara,12:50,14:55,Delhi,Goa,"10,575",2-Nov
+1052,Vistara,11:40,14:55,Delhi,Goa,"10,575",2-Nov
+1053,Indigo,11:25,16:15,Delhi,Goa,"10,654",2-Nov
+1054,SpiceJet,19:45,17:05,Delhi,Goa,"10,859",2-Nov
+1055,SpiceJet,18:55,17:05,Delhi,Goa,"10,859",2-Nov
+1056,Air India,20:00,6:50,Delhi,Goa,"11,100",2-Nov
+1057,Air India,19:00,6:50,Delhi,Goa,"11,100",2-Nov
+1058,Air India,17:50,6:50,Delhi,Goa,"11,100",2-Nov
+1059,Air India,15:05,6:50,Delhi,Goa,"11,100",2-Nov
+1060,Air India,10:40,6:50,Delhi,Goa,"11,100",2-Nov
+1061,Air India,8:00,6:50,Delhi,Goa,"11,100",2-Nov
+1062,Vistara,8:05,13:50,Delhi,Goa,"11,310",2-Nov
+1063,SpiceJet,20:10,20:35,Delhi,Goa,"11,493",2-Nov
+1064,Vistara,20:40,13:50,Delhi,Goa,"12,518",2-Nov
+1065,Vistara,17:35,13:50,Delhi,Goa,"12,518",2-Nov
+1066,Vistara,16:05,13:50,Delhi,Goa,"12,518",2-Nov
+1067,Vistara,14:15,13:50,Delhi,Goa,"12,518",2-Nov
+1068,SpiceJet,19:45,12:50,Delhi,Goa,"12,749",2-Nov
+1069,SpiceJet,18:55,12:50,Delhi,Goa,"12,749",2-Nov
+1070,Vistara,17:10,14:55,Delhi,Goa,"13,026",2-Nov
+1071,Vistara,17:10,14:55,Delhi,Goa,"13,026",2-Nov
+1072,Vistara,13:40,14:55,Delhi,Goa,"13,078",2-Nov
+1073,Vistara,13:40,14:55,Delhi,Goa,"13,078",2-Nov
+1074,Vistara,20:35,13:50,Delhi,Goa,"13,166",2-Nov
+1075,Vistara,14:45,13:50,Delhi,Goa,"13,166",2-Nov
+1076,Vistara,7:05,13:50,Delhi,Goa,"13,166",2-Nov
+1077,SpiceJet,5:45,18:35,Delhi,Goa,"13,227",2-Nov
+1078,Vistara,20:35,14:55,Delhi,Goa,"13,402",2-Nov
+1079,Vistara,14:45,14:55,Delhi,Goa,"13,402",2-Nov
+1080,Vistara,14:45,14:55,Delhi,Goa,"13,402",2-Nov
+1081,Vistara,7:05,14:55,Delhi,Goa,"13,402",2-Nov
+1082,Vistara,7:05,14:55,Delhi,Goa,"13,402",2-Nov
+1083,Vistara,17:40,13:50,Delhi,Goa,"13,586",2-Nov
+1084,Vistara,17:40,14:55,Delhi,Goa,"13,822",2-Nov
+1085,Vistara,17:40,14:55,Delhi,Goa,"13,822",2-Nov
+1086,Air India,20:00,14:45,Delhi,Goa,"14,040",2-Nov
+1087,Air India,19:00,14:45,Delhi,Goa,"14,040",2-Nov
+1088,Air India,17:50,14:45,Delhi,Goa,"14,040",2-Nov
+1089,Air India,15:05,20:30,Delhi,Goa,"14,408",2-Nov
+1090,Air India,10:40,20:30,Delhi,Goa,"14,408",2-Nov
+1091,Air India,8:00,20:30,Delhi,Goa,"14,408",2-Nov
+1092,Air India,7:00,20:30,Delhi,Goa,"14,408",2-Nov
+1093,Air India,9:45,10:15,Delhi,Goa,"14,408",2-Nov
+1094,Air India,8:10,10:15,Delhi,Goa,"14,408",2-Nov
+1095,Air India,21:10,10:15,Delhi,Goa,"14,828",2-Nov
+1096,SpiceJet,20:10,7:45,Delhi,Goa,"15,169",2-Nov
+1097,SpiceJet,5:55,7:45,Delhi,Goa,"15,169",2-Nov
+1098,Vistara,21:40,12:45,Delhi,Goa,"15,563",2-Nov
+1099,Vistara,20:40,12:45,Delhi,Goa,"15,563",2-Nov
+1100,Vistara,19:50,12:45,Delhi,Goa,"15,563",2-Nov
+1101,Vistara,18:55,12:45,Delhi,Goa,"15,563",2-Nov
+1102,Vistara,17:45,12:45,Delhi,Goa,"15,563",2-Nov
+1103,Vistara,16:55,12:45,Delhi,Goa,"15,563",2-Nov
+1104,Vistara,15:30,12:45,Delhi,Goa,"15,563",2-Nov
+1105,Vistara,12:50,12:45,Delhi,Goa,"15,563",2-Nov
+1106,Vistara,11:40,12:45,Delhi,Goa,"15,563",2-Nov
+1107,SpiceJet,18:30,12:35,Delhi,Goa,"16,088",2-Nov
+1108,Indigo,23:10,0:50,Delhi,Patna,"5,115",31-Oct
+1109,Indigo,18:10,19:45,Delhi,Patna,"5,430",31-Oct
+1110,Indigo,17:30,19:15,Delhi,Patna,"5,430",31-Oct
+1111,Indigo,21:20,23:05,Delhi,Patna,"5,691",31-Oct
+1112,Indigo,16:05,17:45,Delhi,Patna,"6,060",31-Oct
+1113,Indigo,13:15,15:00,Delhi,Patna,"6,060",31-Oct
+1114,Indigo,20:00,21:50,Delhi,Patna,"6,060",31-Oct
+1115,Indigo,8:55,10:30,Delhi,Patna,"6,270",31-Oct
+1116,GO FIRST,6:05,7:45,Delhi,Patna,"6,270",31-Oct
+1117,GO FIRST,9:00,10:40,Delhi,Patna,"6,270",31-Oct
+1118,GO FIRST,17:55,19:35,Delhi,Patna,"6,270",31-Oct
+1119,Indigo,7:50,17:15,Delhi,Patna,"8,055",31-Oct
+1120,SpiceJet,7:25,9:00,Delhi,Patna,"6,480",31-Oct
+1121,Indigo,12:20,14:00,Delhi,Patna,"6,480",31-Oct
+1122,Vistara,18:15,19:55,Delhi,Patna,"6,533",31-Oct
+1123,Indigo,5:15,14:25,Delhi,Patna,"8,003",31-Oct
+1124,Indigo,13:00,17:15,Delhi,Patna,"9,105",31-Oct
+1125,SpiceJet,15:10,16:55,Delhi,Patna,"9,420",31-Oct
+1126,GO FIRST,11:30,13:10,Delhi,Patna,"9,944",31-Oct
+1127,Indigo,14:50,21:20,Delhi,Patna,"10,313",31-Oct
+1128,Indigo,6:25,7:55,Delhi,Patna,"11,100",31-Oct
+1129,Air India,16:45,18:25,Delhi,Patna,"11,100",31-Oct
+1130,Air India,20:15,16:35,Delhi,Patna,"11,100",31-Oct
+1131,GO FIRST,19:35,11:00,Delhi,Patna,"12,500",31-Oct
+1132,GO FIRST,22:30,13:45,Delhi,Patna,"13,536",31-Oct
+1133,GO FIRST,13:55,15:35,Delhi,Patna,"14,250",31-Oct
+1134,Air India,10:35,12:10,Delhi,Patna,"14,250",31-Oct
+1135,Air India,18:30,20:50,Delhi,Patna,"14,250",31-Oct
+1136,Vistara,20:40,9:55,Delhi,Patna,"14,565",31-Oct
+1137,Vistara,19:50,9:55,Delhi,Patna,"14,565",31-Oct
+1138,Vistara,17:35,9:55,Delhi,Patna,"14,565",31-Oct
+1139,Vistara,16:05,9:55,Delhi,Patna,"14,565",31-Oct
+1140,Vistara,15:00,9:55,Delhi,Patna,"14,565",31-Oct
+1141,Vistara,8:05,9:55,Delhi,Patna,"14,565",31-Oct
+1142,Vistara,6:15,9:55,Delhi,Patna,"14,565",31-Oct
+1143,Vistara,14:15,9:55,Delhi,Patna,"14,985",31-Oct
+1144,Air India,17:20,20:10,Delhi,Patna,"16,665",31-Oct
+1145,Air India,11:00,16:35,Delhi,Patna,"17,085",31-Oct
+1146,GO FIRST,8:00,13:45,Delhi,Patna,"17,684",31-Oct
+1147,GO FIRST,7:00,13:45,Delhi,Patna,"17,684",31-Oct
+1148,GO FIRST,2:00,13:45,Delhi,Patna,"17,684",31-Oct
+1149,Vistara,17:45,9:55,Delhi,Patna,"17,820",31-Oct
+1150,Vistara,16:55,9:55,Delhi,Patna,"17,820",31-Oct
+1151,Vistara,15:30,9:55,Delhi,Patna,"17,925",31-Oct
+1152,Vistara,15:30,9:55,Delhi,Patna,"18,030",31-Oct
+1153,Air India,21:15,20:10,Delhi,Patna,"18,030",31-Oct
+1154,Air India,16:55,16:35,Delhi,Patna,"18,030",31-Oct
+1155,Air India,16:45,14:10,Delhi,Patna,"18,778",31-Oct
+1156,Air India,8:10,16:35,Delhi,Patna,"19,080",31-Oct
+1157,Air India,8:10,20:10,Delhi,Patna,"19,500",31-Oct
+1158,Air India,8:10,20:10,Delhi,Patna,"19,500",31-Oct
+1159,Vistara,11:10,9:55,Delhi,Patna,"21,443",31-Oct
+1160,Air India,19:00,20:10,Delhi,Patna,"23,228",31-Oct
+1161,Air India,19:00,20:50,Delhi,Patna,"23,595",31-Oct
+1162,Air India,17:50,20:50,Delhi,Patna,"23,595",31-Oct
+1163,Air India,7:05,20:10,Delhi,Patna,"24,750",31-Oct
+1164,Air India,20:00,20:50,Delhi,Patna,"25,275",31-Oct
+1165,Air India,13:00,20:10,Delhi,Patna,"25,590",31-Oct
+1166,Air India,11:20,16:35,Delhi,Patna,"25,633",31-Oct
+1167,GO FIRST,6:05,14:10,Delhi,Patna,"26,431",31-Oct
+1168,Air India,16:15,16:35,Delhi,Patna,"26,640",31-Oct
+1169,Air India,16:15,16:35,Delhi,Patna,"26,640",31-Oct
+1170,Air India,21:10,16:35,Delhi,Patna,"26,850",31-Oct
+1171,Air India,9:45,16:35,Delhi,Patna,"26,850",31-Oct
+1172,Air India,21:10,20:10,Delhi,Patna,"27,270",31-Oct
+1173,Air India,9:45,20:10,Delhi,Patna,"27,270",31-Oct
+1174,Air India,9:45,20:10,Delhi,Patna,"27,270",31-Oct
+1175,Air India,9:25,16:35,Delhi,Patna,"28,950",31-Oct
+1176,Air India,9:25,16:35,Delhi,Patna,"28,950",31-Oct
+1177,Air India,9:25,16:35,Delhi,Patna,"28,950",31-Oct
+1178,Air India,20:00,16:35,Delhi,Patna,"31,470",31-Oct
+1179,Air India,9:25,16:35,Delhi,Patna,"32,458",31-Oct
+1180,GO FIRST,5:50,8:00,Delhi,Kolkata,"5,954",3-Nov
+1181,Indigo,22:30,0:35,Delhi,Kolkata,"5,955",3-Nov
+1182,Indigo,7:15,9:30,Delhi,Kolkata,"5,955",3-Nov
+1183,Vistara,7:30,9:35,Delhi,Kolkata,"5,955",3-Nov
+1184,Vistara,20:30,22:45,Delhi,Kolkata,"5,955",3-Nov
+1185,SpiceJet,7:00,9:05,Delhi,Kolkata,"5,954",3-Nov
+1186,SpiceJet,20:50,23:00,Delhi,Kolkata,"5,954",3-Nov
+1187,SpiceJet,13:05,13:10,Delhi,Kolkata,"5,954",3-Nov
+1188,AirAsia,21:00,23:10,Delhi,Kolkata,"5,956",3-Nov
+1189,Vistara,6:15,8:20,Delhi,Kolkata,"5,955",3-Nov
+1190,GO FIRST,8:35,17:25,Delhi,Kolkata,"5,954",3-Nov
+1191,GO FIRST,6:05,16:30,Delhi,Kolkata,"5,954",3-Nov
+1192,GO FIRST,5:35,16:30,Delhi,Kolkata,"5,954",3-Nov
+1193,GO FIRST,21:00,9:35,Delhi,Kolkata,"5,954",3-Nov
+1194,GO FIRST,6:05,22:20,Delhi,Kolkata,"5,954",3-Nov
+1195,GO FIRST,5:35,22:20,Delhi,Kolkata,"5,954",3-Nov
+1196,Indigo,9:50,14:20,Delhi,Kolkata,"5,955",3-Nov
+1197,Indigo,13:00,17:50,Delhi,Kolkata,"5,955",3-Nov
+1198,Indigo,6:00,11:00,Delhi,Kolkata,"5,955",3-Nov
+1199,Indigo,16:20,21:50,Delhi,Kolkata,"5,955",3-Nov
+1200,Indigo,7:25,13:10,Delhi,Kolkata,"5,955",3-Nov
+1201,Indigo,5:00,11:00,Delhi,Kolkata,"5,955",3-Nov
+1202,Indigo,7:20,14:20,Delhi,Kolkata,"5,955",3-Nov
+1203,Indigo,6:05,13:10,Delhi,Kolkata,"5,955",3-Nov
+1204,Indigo,12:55,20:20,Delhi,Kolkata,"5,955",3-Nov
+1205,Indigo,14:40,22:25,Delhi,Kolkata,"5,955",3-Nov
+1206,Indigo,9:15,18:05,Delhi,Kolkata,"5,955",3-Nov
+1207,Vistara,17:30,19:35,Delhi,Kolkata,"6,060",3-Nov
+1208,Indigo,10:55,19:40,Delhi,Kolkata,"6,443",3-Nov
+1209,Indigo,10:55,21:50,Delhi,Kolkata,"6,443",3-Nov
+1210,Indigo,19:45,21:55,Delhi,Kolkata,"6,585",3-Nov
+1211,Indigo,5:55,8:10,Delhi,Kolkata,"6,585",3-Nov
+1212,GO FIRST,19:25,21:45,Delhi,Kolkata,"6,532",3-Nov
+1213,SpiceJet,15:05,16:25,Delhi,Kolkata,"6,584",3-Nov
+1214,Indigo,8:40,10:50,Delhi,Kolkata,"6,900",3-Nov
+1215,Indigo,21:15,23:25,Delhi,Kolkata,"6,900",3-Nov
+1216,Indigo,17:25,19:40,Delhi,Kolkata,"6,900",3-Nov
+1217,Indigo,18:35,20:55,Delhi,Kolkata,"6,900",3-Nov
+1218,Indigo,7:50,17:50,Delhi,Kolkata,"6,932",3-Nov
+1219,Indigo,5:15,10:20,Delhi,Kolkata,"7,908",3-Nov
+1220,Indigo,3:00,5:10,Delhi,Kolkata,"7,215",3-Nov
+1221,Indigo,10:00,12:10,Delhi,Kolkata,"7,215",3-Nov
+1222,AirAsia,7:10,15:25,Delhi,Kolkata,"7,216",3-Nov
+1223,AirAsia,16:15,1:05,Delhi,Kolkata,"7,216",3-Nov
+1224,Air India,16:55,19:10,Delhi,Kolkata,"7,635",3-Nov
+1225,Indigo,9:15,14:35,Delhi,Kolkata,"7,908",3-Nov
+1226,Indigo,5:50,14:35,Delhi,Kolkata,"7,908",3-Nov
+1227,GO FIRST,11:10,15:50,Delhi,Kolkata,"9,840",3-Nov
+1228,Indigo,15:30,20:55,Delhi,Kolkata,"8,885",3-Nov
+1229,Indigo,15:10,17:20,Delhi,Kolkata,"9,105",3-Nov
+1230,Indigo,10:25,20:55,Delhi,Kolkata,"9,373",3-Nov
+1231,GO FIRST,19:35,7:55,Delhi,Kolkata,"11,082",3-Nov
+1232,Air India,20:15,22:20,Delhi,Kolkata,"10,260",3-Nov
+1233,Indigo,13:15,17:25,Delhi,Kolkata,"10,349",3-Nov
+1234,Indigo,16:05,20:15,Delhi,Kolkata,"10,349",3-Nov
+1235,Indigo,13:15,20:15,Delhi,Kolkata,"10,349",3-Nov
+1236,Indigo,7:20,15:20,Delhi,Kolkata,"10,349",3-Nov
+1237,Indigo,8:55,17:25,Delhi,Kolkata,"10,349",3-Nov
+1238,Indigo,14:05,18:40,Delhi,Kolkata,"10,838",3-Nov
+1239,AirAsia,9:35,1:25,Delhi,Kolkata,"11,310",3-Nov
+1240,Indigo,12:20,17:25,Delhi,Kolkata,"11,326",3-Nov
+1241,Indigo,12:20,20:15,Delhi,Kolkata,"11,326",3-Nov
+1242,SpiceJet,13:05,18:30,Delhi,Kolkata,"11,624",3-Nov
+1243,SpiceJet,9:25,18:30,Delhi,Kolkata,"11,624",3-Nov
+1244,Air India,7:05,22:45,Delhi,Kolkata,"11,678",3-Nov
+1245,AirAsia,6:20,12:00,Delhi,Kolkata,"11,866",3-Nov
+1246,Indigo,16:45,22:55,Delhi,Kolkata,"12,255",3-Nov
+1247,Indigo,9:50,15:20,Delhi,Kolkata,"12,302",3-Nov
+1248,Indigo,10:50,18:40,Delhi,Kolkata,"12,791",3-Nov
+1249,Air India,9:25,13:00,Delhi,Kolkata,"13,515",3-Nov
+1250,Air India,17:20,13:30,Delhi,Kolkata,"13,935",3-Nov
+1251,Air India,9:45,13:30,Delhi,Kolkata,"13,935",3-Nov
+1252,Air India,16:15,13:00,Delhi,Kolkata,"14,355",3-Nov
+1253,Air India,16:15,17:50,Delhi,Kolkata,"14,355",3-Nov
+1254,Air India,16:15,19:40,Delhi,Kolkata,"14,355",3-Nov
+1255,Vistara,12:50,19:55,Delhi,Kolkata,"14,880",3-Nov
+1256,Vistara,11:40,19:55,Delhi,Kolkata,"14,880",3-Nov
+1257,Vistara,10:20,19:55,Delhi,Kolkata,"14,880",3-Nov
+1258,Vistara,9:30,19:55,Delhi,Kolkata,"14,880",3-Nov
+1259,Vistara,8:50,19:55,Delhi,Kolkata,"14,880",3-Nov
+1260,Vistara,7:30,19:55,Delhi,Kolkata,"14,880",3-Nov
+1261,Vistara,6:00,19:55,Delhi,Kolkata,"14,880",3-Nov
+1262,Vistara,21:40,16:55,Delhi,Kolkata,"14,880",3-Nov
+1263,Vistara,20:40,16:55,Delhi,Kolkata,"14,880",3-Nov
+1264,Vistara,19:50,16:55,Delhi,Kolkata,"14,880",3-Nov
+1265,Vistara,18:55,16:55,Delhi,Kolkata,"14,880",3-Nov
+1266,Vistara,17:45,16:55,Delhi,Kolkata,"14,880",3-Nov
+1267,Vistara,16:55,16:55,Delhi,Kolkata,"14,880",3-Nov
+1268,Vistara,15:30,16:55,Delhi,Kolkata,"14,880",3-Nov
+1269,Vistara,12:50,16:55,Delhi,Kolkata,"14,880",3-Nov
+1270,Vistara,11:40,16:55,Delhi,Kolkata,"14,880",3-Nov
+1271,Vistara,10:20,16:55,Delhi,Kolkata,"15,615",3-Nov
+1272,Vistara,9:30,16:55,Delhi,Kolkata,"15,615",3-Nov
+1273,Vistara,8:50,16:55,Delhi,Kolkata,"15,615",3-Nov
+1274,Vistara,7:30,16:55,Delhi,Kolkata,"15,615",3-Nov
+1275,Vistara,6:00,16:55,Delhi,Kolkata,"15,615",3-Nov
+1276,AirAsia,16:50,19:15,Delhi,Kolkata,"15,720",3-Nov
+1277,Air India,5:15,11:05,Delhi,Kolkata,"15,720",3-Nov
+1278,Air India,13:15,22:45,Delhi,Kolkata,"15,983",3-Nov
+1279,Air India,21:15,13:30,Delhi,Kolkata,"16,140",3-Nov
+1280,Air India,13:30,13:30,Delhi,Kolkata,"16,140",3-Nov
+1281,GO FIRST,15:00,23:50,Delhi,Kolkata,"16,686",3-Nov
+1282,GO FIRST,14:20,23:50,Delhi,Kolkata,"16,686",3-Nov
+1283,GO FIRST,10:30,23:50,Delhi,Kolkata,"16,686",3-Nov
+1284,GO FIRST,8:00,23:50,Delhi,Kolkata,"16,686",3-Nov
+1285,GO FIRST,7:00,23:50,Delhi,Kolkata,"16,686",3-Nov
+1286,Vistara,14:45,16:55,Delhi,Kolkata,"17,224",3-Nov
+1287,Vistara,20:35,16:55,Delhi,Kolkata,"17,329",3-Nov
+1288,GO FIRST,20:30,8:20,Delhi,Kolkata,"17,793",3-Nov
+1289,GO FIRST,16:30,8:20,Delhi,Kolkata,"17,793",3-Nov
+1290,Air India,9:45,8:05,Delhi,Kolkata,"18,240",3-Nov
+1291,Air India,8:10,8:05,Delhi,Kolkata,"18,240",3-Nov
+1292,Air India,21:10,8:05,Delhi,Kolkata,"18,660",3-Nov
+1293,Vistara,21:40,9:45,Delhi,Kolkata,"18,870",3-Nov
+1294,Vistara,20:40,9:45,Delhi,Kolkata,"18,870",3-Nov
+1295,Vistara,19:50,9:45,Delhi,Kolkata,"18,870",3-Nov
+1296,Vistara,18:55,9:45,Delhi,Kolkata,"18,870",3-Nov
+1297,Vistara,17:45,9:45,Delhi,Kolkata,"18,870",3-Nov
+1298,Vistara,16:55,9:45,Delhi,Kolkata,"18,870",3-Nov
+1299,Vistara,15:30,9:45,Delhi,Kolkata,"18,870",3-Nov
+1300,Air India,16:45,22:45,Delhi,Kolkata,"19,216",3-Nov
+1301,Air India,16:45,12:10,Delhi,Kolkata,"19,216",3-Nov
+1302,Vistara,20:40,16:55,Delhi,Kolkata,"19,534",3-Nov
+1303,Vistara,20:40,16:55,Delhi,Kolkata,"19,534",3-Nov
+1304,Vistara,20:40,16:55,Delhi,Kolkata,"19,534",3-Nov
+1305,Vistara,19:50,16:55,Delhi,Kolkata,"19,534",3-Nov
+1306,Vistara,19:50,16:55,Delhi,Kolkata,"19,534",3-Nov
+1307,Vistara,19:50,16:55,Delhi,Kolkata,"19,534",3-Nov
+1308,Vistara,17:35,16:55,Delhi,Kolkata,"19,534",3-Nov
+1309,Vistara,17:35,16:55,Delhi,Kolkata,"19,534",3-Nov
+1310,Vistara,17:35,16:55,Delhi,Kolkata,"19,534",3-Nov
+1311,Vistara,17:35,16:55,Delhi,Kolkata,"19,534",3-Nov
+1312,Air India,5:30,10:40,Delhi,Kolkata,"21,853",3-Nov
+1313,Vistara,17:10,9:45,Delhi,Kolkata,"21,915",3-Nov
+1314,Vistara,17:40,9:45,Delhi,Kolkata,"23,175",3-Nov
+1315,Air India,17:50,12:10,Delhi,Kolkata,"23,595",3-Nov
+1316,Air India,17:50,12:10,Delhi,Kolkata,"23,595",3-Nov
+1317,Vistara,17:35,9:45,Delhi,Kolkata,"25,065",3-Nov
+1318,Vistara,16:05,9:45,Delhi,Kolkata,"25,065",3-Nov
+1319,Air India,20:00,12:10,Delhi,Kolkata,"25,695",3-Nov
+1320,GO FIRST,21:00,7:30,Delhi,Kolkata,"25,768",3-Nov
+1321,GO FIRST,19:40,7:30,Delhi,Kolkata,"25,768",3-Nov
+1322,GO FIRST,18:05,7:30,Delhi,Kolkata,"25,768",3-Nov
+1323,GO FIRST,15:00,7:30,Delhi,Kolkata,"25,768",3-Nov
+1324,Indigo,18:30,23:40,Mumbai,Cochin,"2,165",8-Dec
+1325,Indigo,17:10,23:40,Mumbai,Cochin,"2,165",8-Dec
+1326,Indigo,16:20,23:40,Mumbai,Cochin,"2,165",8-Dec
+1327,Indigo,12:45,23:40,Mumbai,Cochin,"2,165",8-Dec
+1328,AirAsia,14:55,16:50,Mumbai,Cochin,"2,543",8-Dec
+1329,Air India,17:10,19:15,Mumbai,Cochin,"2,603",8-Dec
+1330,GO FIRST,17:15,19:25,Mumbai,Cochin,"2,900",8-Dec
+1331,Indigo,17:10,22:35,Mumbai,Cochin,"3,214",8-Dec
+1332,GO FIRST,5:10,7:10,Mumbai,Cochin,"3,718",8-Dec
+1333,GO FIRST,14:35,23:15,Mumbai,Cochin,"3,752",8-Dec
+1334,AirAsia,2:35,7:00,Mumbai,Cochin,"3,777",8-Dec
+1335,AirAsia,13:05,20:55,Mumbai,Cochin,"3,777",8-Dec
+1336,AirAsia,21:20,7:00,Mumbai,Cochin,"3,777",8-Dec
+1337,AirAsia,2:35,14:15,Mumbai,Cochin,"3,777",8-Dec
+1338,AirAsia,2:35,14:20,Mumbai,Cochin,"3,777",8-Dec
+1339,Indigo,8:30,13:35,Mumbai,Cochin,"3,856",8-Dec
+1340,Air India,16:45,23:00,Mumbai,Cochin,"3,861",8-Dec
+1341,Air India,9:30,23:00,Mumbai,Cochin,"3,861",8-Dec
+1342,AirAsia,13:05,22:20,Mumbai,Cochin,"3,988",8-Dec
+1343,GO FIRST,7:30,13:15,Mumbai,Cochin,"4,988",8-Dec
+1344,GO FIRST,9:25,15:50,Mumbai,Cochin,"4,988",8-Dec
+1345,GO FIRST,7:30,15:50,Mumbai,Cochin,"4,988",8-Dec
+1346,Indigo,8:50,10:40,Mumbai,Cochin,"5,000",8-Dec
+1347,Indigo,11:15,13:10,Mumbai,Cochin,"5,000",8-Dec
+1348,Indigo,19:10,21:05,Mumbai,Cochin,"5,000",8-Dec
+1349,Air India,16:45,11:25,Mumbai,Cochin,"5,177",8-Dec
+1350,Air India,9:30,11:25,Mumbai,Cochin,"5,177",8-Dec
+1351,GO FIRST,22:40,13:15,Mumbai,Cochin,"5,514",8-Dec
+1352,Vistara,6:00,19:10,Mumbai,Cochin,"6,144",8-Dec
+1353,Vistara,22:45,19:10,Mumbai,Cochin,"6,144",8-Dec
+1354,Vistara,21:55,19:10,Mumbai,Cochin,"6,144",8-Dec
+1355,Vistara,22:45,9:05,Mumbai,Cochin,"6,261",8-Dec
+1356,Vistara,21:55,9:05,Mumbai,Cochin,"6,261",8-Dec
+1357,Vistara,6:00,9:05,Mumbai,Cochin,"6,261",8-Dec
+1358,Vistara,11:55,19:10,Mumbai,Cochin,"6,669",8-Dec
+1359,Vistara,10:25,19:10,Mumbai,Cochin,"6,669",8-Dec
+1360,Vistara,6:30,19:10,Mumbai,Cochin,"6,669",8-Dec
+1361,Vistara,20:55,19:10,Mumbai,Cochin,"6,669",8-Dec
+1362,Vistara,15:45,19:10,Mumbai,Cochin,"6,669",8-Dec
+1363,Vistara,14:40,19:10,Mumbai,Cochin,"6,669",8-Dec
+1364,Vistara,20:55,9:05,Mumbai,Cochin,"6,786",8-Dec
+1365,Vistara,15:45,9:05,Mumbai,Cochin,"6,786",8-Dec
+1366,Vistara,14:40,9:05,Mumbai,Cochin,"6,786",8-Dec
+1367,Vistara,11:55,9:05,Mumbai,Cochin,"6,786",8-Dec
+1368,Vistara,10:25,9:05,Mumbai,Cochin,"6,786",8-Dec
+1369,Vistara,6:30,9:05,Mumbai,Cochin,"6,786",8-Dec
+1370,Air India,7:05,17:20,Mumbai,Cochin,"7,189",8-Dec
+1371,Air India,21:30,17:20,Mumbai,Cochin,"7,189",8-Dec
+1372,Air India,15:25,17:20,Mumbai,Cochin,"7,189",8-Dec
+1373,Vistara,8:45,19:10,Mumbai,Cochin,"7,194",8-Dec
+1374,Vistara,7:30,19:10,Mumbai,Cochin,"7,194",8-Dec
+1375,Vistara,18:30,19:10,Mumbai,Cochin,"7,194",8-Dec
+1376,Vistara,17:30,19:10,Mumbai,Cochin,"7,194",8-Dec
+1377,Indigo,7:10,14:35,Mumbai,Cochin,"7,281",8-Dec
+1378,Indigo,6:15,14:35,Mumbai,Cochin,"7,281",8-Dec
+1379,Vistara,18:30,9:05,Mumbai,Cochin,"7,311",8-Dec
+1380,Vistara,17:30,9:05,Mumbai,Cochin,"7,311",8-Dec
+1381,Vistara,8:45,9:05,Mumbai,Cochin,"7,311",8-Dec
+1382,Vistara,7:30,9:05,Mumbai,Cochin,"7,311",8-Dec
+1383,Air India,8:00,17:20,Mumbai,Cochin,"7,504",8-Dec
+1384,Air India,7:00,17:20,Mumbai,Cochin,"7,504",8-Dec
+1385,Indigo,1:15,7:00,Mumbai,Cochin,"7,662",8-Dec
+1386,Indigo,14:20,22:35,Mumbai,Cochin,"7,662",8-Dec
+1387,Indigo,22:15,7:00,Mumbai,Cochin,"7,662",8-Dec
+1388,Indigo,20:30,7:00,Mumbai,Cochin,"7,662",8-Dec
+1389,Indigo,6:55,10:55,Mumbai,Cochin,"7,767",8-Dec
+1390,Indigo,7:45,13:35,Mumbai,Cochin,"7,767",8-Dec
+1391,Indigo,4:50,10:55,Mumbai,Cochin,"7,767",8-Dec
+1392,Indigo,6:55,13:35,Mumbai,Cochin,"7,767",8-Dec
+1393,Indigo,4:50,13:35,Mumbai,Cochin,"7,767",8-Dec
+1394,Indigo,1:15,10:55,Mumbai,Cochin,"7,767",8-Dec
+1395,Air India,10:00,17:20,Mumbai,Cochin,"7,924",8-Dec
+1396,Air India,19:00,17:20,Mumbai,Cochin,"7,924",8-Dec
+1397,Air India,18:00,17:20,Mumbai,Cochin,"7,924",8-Dec
+1398,Vistara,17:50,19:10,Mumbai,Cochin,"8,090",8-Dec
+1399,Vistara,9:45,19:10,Mumbai,Cochin,"8,090",8-Dec
+1400,Vistara,9:45,19:10,Mumbai,Cochin,"8,090",8-Dec
+1401,Vistara,17:50,9:05,Mumbai,Cochin,"8,208",8-Dec
+1402,Vistara,9:45,9:05,Mumbai,Cochin,"8,208",8-Dec
+1403,Vistara,9:45,9:05,Mumbai,Cochin,"8,208",8-Dec
+1404,Vistara,21:00,19:10,Mumbai,Cochin,"8,510",8-Dec
+1405,Vistara,17:50,19:10,Mumbai,Cochin,"8,510",8-Dec
+1406,Vistara,9:45,19:10,Mumbai,Cochin,"8,510",8-Dec
+1407,Vistara,7:05,9:05,Mumbai,Cochin,"8,523",8-Dec
+1408,Vistara,7:05,9:05,Mumbai,Cochin,"8,523",8-Dec
+1409,Vistara,6:20,19:10,Mumbai,Cochin,"8,921",8-Dec
+1410,Indigo,16:25,22:10,Mumbai,Cochin,"9,462",8-Dec
+1411,Indigo,15:15,22:10,Mumbai,Cochin,"9,462",8-Dec
+1412,Vistara,13:20,9:05,Mumbai,Cochin,"9,476",8-Dec
+1413,Air India,5:35,17:20,Mumbai,Cochin,"9,524",8-Dec
+1414,Vistara,7:00,19:10,Mumbai,Cochin,"9,664",8-Dec
+1415,Vistara,9:05,19:10,Mumbai,Cochin,"9,755",8-Dec
+1416,Vistara,7:00,19:10,Mumbai,Cochin,"9,755",8-Dec
+1417,Vistara,6:00,19:10,Mumbai,Cochin,"9,755",8-Dec
+1418,Indigo,6:35,12:00,Mumbai,Cochin,"9,830",8-Dec
+1419,Vistara,19:45,9:05,Mumbai,Cochin,"10,388",8-Dec
+1420,Air India,8:05,17:20,Mumbai,Cochin,"10,416",8-Dec
+1421,Air India,8:05,17:20,Mumbai,Cochin,"10,416",8-Dec
+1422,Indigo,14:20,20:50,Mumbai,Cochin,"10,473",8-Dec
+1423,Air India,8:05,17:20,Mumbai,Cochin,"10,679",8-Dec
+1424,Air India,19:00,17:20,Mumbai,Cochin,"11,078",8-Dec
+1425,Vistara,14:00,9:05,Mumbai,Cochin,"11,586",8-Dec
+1426,Indigo,4:35,9:35,Mumbai,Cochin,"11,666",8-Dec
+1427,Indigo,7:15,13:10,Mumbai,Cochin,"11,666",8-Dec
+1428,Indigo,10:30,18:40,Mumbai,Cochin,"11,666",8-Dec
+1429,Indigo,4:35,13:10,Mumbai,Cochin,"11,666",8-Dec
+1430,Indigo,23:05,9:35,Mumbai,Cochin,"11,666",8-Dec
+1431,Indigo,18:30,19:55,Mumbai,Hyderabad,"4,263",12-Nov
+1432,Air India,20:15,21:35,Mumbai,Hyderabad,"3,892",12-Nov
+1433,Vistara,6:20,7:50,Mumbai,Hyderabad,"4,263",12-Nov
+1434,Vistara,10:45,12:15,Mumbai,Hyderabad,"4,263",12-Nov
+1435,Vistara,19:20,20:55,Mumbai,Hyderabad,"4,263",12-Nov
+1436,Indigo,6:15,7:35,Mumbai,Hyderabad,"4,263",12-Nov
+1437,Indigo,7:10,8:30,Mumbai,Hyderabad,"4,263",12-Nov
+1438,Indigo,10:45,12:05,Mumbai,Hyderabad,"4,263",12-Nov
+1439,Indigo,12:45,14:05,Mumbai,Hyderabad,"4,263",12-Nov
+1440,Indigo,16:20,17:40,Mumbai,Hyderabad,"4,263",12-Nov
+1441,Indigo,17:10,18:35,Mumbai,Hyderabad,"4,263",12-Nov
+1442,Indigo,19:55,21:25,Mumbai,Hyderabad,"4,263",12-Nov
+1443,AirAsia,2:35,6:35,Mumbai,Hyderabad,"4,260",12-Nov
+1444,AirAsia,13:05,17:45,Mumbai,Hyderabad,"4,260",12-Nov
+1445,AirAsia,2:35,8:45,Mumbai,Hyderabad,"4,260",12-Nov
+1446,AirAsia,21:20,6:35,Mumbai,Hyderabad,"4,260",12-Nov
+1447,AirAsia,21:20,8:45,Mumbai,Hyderabad,"4,260",12-Nov
+1448,AirAsia,2:35,15:35,Mumbai,Hyderabad,"4,260",12-Nov
+1449,AirAsia,4:45,19:15,Mumbai,Hyderabad,"4,260",12-Nov
+1450,AirAsia,2:35,17:45,Mumbai,Hyderabad,"4,260",12-Nov
+1451,GO FIRST,5:10,10:00,Mumbai,Hyderabad,"4,262",12-Nov
+1452,GO FIRST,17:15,23:40,Mumbai,Hyderabad,"4,262",12-Nov
+1453,GO FIRST,13:30,21:50,Mumbai,Hyderabad,"4,262",12-Nov
+1454,GO FIRST,5:00,14:30,Mumbai,Hyderabad,"4,262",12-Nov
+1455,GO FIRST,14:35,0:05,Mumbai,Hyderabad,"4,262",12-Nov
+1456,GO FIRST,12:15,21:50,Mumbai,Hyderabad,"4,262",12-Nov
+1457,GO FIRST,5:45,15:25,Mumbai,Hyderabad,"4,262",12-Nov
+1458,GO FIRST,22:50,8:30,Mumbai,Hyderabad,"4,262",12-Nov
+1459,GO FIRST,23:45,9:30,Mumbai,Hyderabad,"4,262",12-Nov
+1460,GO FIRST,7:30,17:40,Mumbai,Hyderabad,"4,262",12-Nov
+1461,GO FIRST,22:40,9:30,Mumbai,Hyderabad,"4,262",12-Nov
+1462,GO FIRST,21:00,8:30,Mumbai,Hyderabad,"4,262",12-Nov
+1463,GO FIRST,9:55,21:50,Mumbai,Hyderabad,"4,262",12-Nov
+1464,GO FIRST,21:15,9:30,Mumbai,Hyderabad,"4,262",12-Nov
+1465,GO FIRST,5:50,18:55,Mumbai,Hyderabad,"4,262",12-Nov
+1466,GO FIRST,20:15,9:30,Mumbai,Hyderabad,"4,262",12-Nov
+1467,GO FIRST,8:00,21:50,Mumbai,Hyderabad,"4,262",12-Nov
+1468,GO FIRST,18:00,9:30,Mumbai,Hyderabad,"4,262",12-Nov
+1469,GO FIRST,6:00,21:50,Mumbai,Hyderabad,"4,262",12-Nov
+1470,Indigo,0:25,8:40,Mumbai,Hyderabad,"4,263",12-Nov
+1471,Indigo,5:15,8:40,Mumbai,Hyderabad,"4,646",12-Nov
+1472,Indigo,16:55,22:35,Mumbai,Hyderabad,"4,646",12-Nov
+1473,AirAsia,7:20,20:25,Mumbai,Hyderabad,"4,946",12-Nov
+1474,Indigo,14:05,22:35,Mumbai,Hyderabad,"5,413",12-Nov
+1475,GO FIRST,16:20,22:50,Mumbai,Hyderabad,"8,043",12-Nov
+1476,Air India,6:55,15:20,Mumbai,Hyderabad,"6,887",12-Nov
+1477,Indigo,8:45,17:25,Mumbai,Hyderabad,"6,946",12-Nov
+1478,Indigo,14:05,19:10,Mumbai,Hyderabad,"7,329",12-Nov
+1479,Vistara,7:00,20:25,Mumbai,Hyderabad,"8,988",12-Nov
+1480,Air India,16:00,23:35,Mumbai,Hyderabad,"7,584",12-Nov
+1481,Air India,15:25,23:35,Mumbai,Hyderabad,"7,584",12-Nov
+1482,Air India,10:00,23:35,Mumbai,Hyderabad,"7,584",12-Nov
+1483,Air India,8:00,23:35,Mumbai,Hyderabad,"7,584",12-Nov
+1484,Air India,7:00,23:35,Mumbai,Hyderabad,"7,584",12-Nov
+1485,Air India,21:00,21:05,Mumbai,Hyderabad,"8,231",12-Nov
+1486,Air India,16:45,12:25,Mumbai,Hyderabad,"8,283",12-Nov
+1487,Air India,9:30,12:25,Mumbai,Hyderabad,"8,283",12-Nov
+1488,Vistara,6:00,20:25,Mumbai,Hyderabad,"8,988",12-Nov
+1489,Air India,21:30,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1490,Air India,19:00,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1491,Air India,18:00,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1492,Air India,16:00,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1493,Air India,15:25,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1494,Air India,10:00,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1495,Air India,8:00,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1496,Air India,7:00,10:30,Mumbai,Hyderabad,"8,508",12-Nov
+1497,Air India,9:50,17:35,Mumbai,Hyderabad,"8,703",12-Nov
+1498,Air India,19:05,21:05,Mumbai,Hyderabad,"8,936",12-Nov
+1499,Air India,9:30,20:15,Mumbai,Hyderabad,"8,988",12-Nov
+1500,Vistara,16:00,20:25,Mumbai,Hyderabad,"9,093",12-Nov
+1501,Vistara,9:05,20:25,Mumbai,Hyderabad,"9,093",12-Nov
+1502,Vistara,21:00,20:25,Mumbai,Hyderabad,"9,093",12-Nov
+1503,Vistara,19:10,20:25,Mumbai,Hyderabad,"9,093",12-Nov
+1504,Vistara,14:40,19:50,Mumbai,Hyderabad,"9,879",12-Nov
+1505,Vistara,17:30,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1506,Vistara,15:45,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1507,Vistara,14:40,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1508,Vistara,8:45,19:50,Mumbai,Hyderabad,"9,879",12-Nov
+1509,Vistara,7:30,19:50,Mumbai,Hyderabad,"9,879",12-Nov
+1510,Vistara,6:30,19:50,Mumbai,Hyderabad,"9,879",12-Nov
+1511,Vistara,6:00,19:50,Mumbai,Hyderabad,"9,879",12-Nov
+1512,Vistara,8:45,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1513,Vistara,7:30,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1514,Vistara,6:30,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1515,Vistara,6:00,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1516,Vistara,10:25,19:50,Mumbai,Hyderabad,"9,879",12-Nov
+1517,Vistara,10:25,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1518,Air India,16:45,19:00,Mumbai,Hyderabad,"9,356",12-Nov
+1519,GO FIRST,12:00,17:40,Mumbai,Hyderabad,"9,539",12-Nov
+1520,GO FIRST,9:25,17:40,Mumbai,Hyderabad,"9,539",12-Nov
+1521,Air India,12:00,12:25,Mumbai,Hyderabad,"9,644",12-Nov
+1522,Air India,9:00,9:55,Mumbai,Hyderabad,"9,828",12-Nov
+1523,Vistara,11:55,19:50,Mumbai,Hyderabad,"9,879",12-Nov
+1524,Vistara,11:55,22:55,Mumbai,Hyderabad,"9,879",12-Nov
+1525,GO FIRST,15:20,22:50,Mumbai,Hyderabad,"10,039",12-Nov
+1526,Vistara,22:45,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1527,Vistara,21:55,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1528,Vistara,20:55,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1529,Vistara,19:45,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1530,Vistara,18:30,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1531,Vistara,17:30,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1532,Vistara,15:45,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1533,Vistara,14:40,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1534,Vistara,11:55,9:25,Mumbai,Hyderabad,"10,058",12-Nov
+1535,Vistara,22:45,22:55,Mumbai,Hyderabad,"10,058",12-Nov
+1536,Vistara,21:55,22:55,Mumbai,Hyderabad,"10,058",12-Nov
+1537,Indigo,11:30,15:45,Mumbai,Hyderabad,"10,395",12-Nov
+1538,Indigo,11:30,19:10,Mumbai,Hyderabad,"10,395",12-Nov
+1539,Vistara,11:55,17:00,Mumbai,Hyderabad,"10,593",12-Nov
+1540,Vistara,10:25,17:00,Mumbai,Hyderabad,"10,593",12-Nov
+1541,Vistara,8:45,17:00,Mumbai,Hyderabad,"10,593",12-Nov
+1542,Vistara,22:45,19:50,Mumbai,Hyderabad,"10,593",12-Nov
+1543,Vistara,19:45,17:00,Mumbai,Hyderabad,"10,593",12-Nov
+1544,Vistara,21:55,19:50,Mumbai,Hyderabad,"10,593",12-Nov
+1545,Vistara,18:30,17:00,Mumbai,Hyderabad,"10,593",12-Nov
+1546,Vistara,20:55,19:50,Mumbai,Hyderabad,"10,593",12-Nov
+1547,Vistara,19:45,19:50,Mumbai,Hyderabad,"10,593",12-Nov
+1548,Vistara,18:30,19:50,Mumbai,Hyderabad,"10,593",12-Nov
+1549,Air India,5:45,23:35,Mumbai,Hyderabad,"10,913",12-Nov
+1550,Air India,21:30,17:35,Mumbai,Hyderabad,"11,639",12-Nov
+1551,Air India,19:00,17:35,Mumbai,Hyderabad,"11,639",12-Nov
+1552,Air India,18:00,17:35,Mumbai,Hyderabad,"11,639",12-Nov
+1553,Air India,16:00,17:35,Mumbai,Hyderabad,"11,639",12-Nov
+1554,Air India,15:25,17:35,Mumbai,Hyderabad,"11,639",12-Nov
+1555,Air India,10:00,17:35,Mumbai,Hyderabad,"11,639",12-Nov
+1556,GO FIRST,0:05,8:00,Mumbai,Hyderabad,"12,410",12-Nov
+1557,Vistara,11:30,19:50,Mumbai,Hyderabad,"12,676",12-Nov
+1558,GO FIRST,11:30,22:50,Mumbai,Hyderabad,"13,083",12-Nov
+1559,Vistara,12:15,19:50,Mumbai,Hyderabad,"13,292",12-Nov
+1560,Vistara,12:15,22:55,Mumbai,Hyderabad,"13,292",12-Nov
+1561,Vistara,12:15,9:25,Mumbai,Hyderabad,"13,292",12-Nov
+1562,Air India,5:30,21:05,Mumbai,Hyderabad,"13,346",12-Nov
+1563,Air India,7:55,21:15,Mumbai,Hyderabad,"14,238",12-Nov
+1564,Vistara,11:25,20:25,Mumbai,Hyderabad,"14,540",12-Nov
+1565,Air India,13:25,21:05,Mumbai,Hyderabad,"15,236",12-Nov
+1566,Vistara,7:05,17:00,Mumbai,Hyderabad,"16,750",12-Nov
+1567,Air India,6:10,21:15,Mumbai,Hyderabad,"17,493",12-Nov
+1568,Air India,20:30,12:25,Mumbai,Hyderabad,"20,853",12-Nov
+1569,Air India,20:30,21:15,Mumbai,Hyderabad,"20,853",12-Nov
